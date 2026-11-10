@@ -1,0 +1,345 @@
+{
+  "model_id": "eleven_multilingual_v2",
+  "generations_count": 1,
+  "skipped": [
+    "x"
+  ],
+  "clips": [
+    {
+      "filename": "mom-praise.mp3",
+      "text": "I'm so proud of how hard you tried today. That brave effort matters.",
+      "voice": "Claire - Warm Cozy Literary Narrator",
+      "voice_id": "mOGjJSRKsUEhB5VBEqsp",
+      "bytes": 74011,
+      "ok": true
+    },
+    {
+      "filename": "mom-welcome.mp3",
+      "text": "Welcome back. I'm glad we can look at the reef together.",
+      "voice": "Claire - Warm Cozy Literary Narrator",
+      "voice_id": "mOGjJSRKsUEhB5VBEqsp",
+      "bytes": 65652,
+      "ok": true
+    },
+    {
+      "filename": "splash.mp3",
+      "text": "Hi, friend. I am Sunny. Want to light the Crystal Path, or practice a reef game?",
+      "voice": "Candy - Girly and Sweet",
+      "voice_id": "Nggzl2QAXh3OijoXD116",
+      "bytes": 99924,
+      "ok": true
+    },
+    {
+      "filename": "nudge.mp3",
+      "text": "Ooh, that one tricked me too — let’s sneak up on it.",
+      "voice": "Candy - Girly and Sweet",
+      "voice_id": "Nggzl2QAXh3OijoXD116",
+      "bytes": 74011,
+      "ok": true
+    },
+    {
+      "filename": "ease.mp3",
+      "text": "Let’s float to a cozier current. I’ll hum a hint.",
+      "voice": "Candy - Girly and Sweet",
+      "voice_id": "Nggzl2QAXh3OijoXD116",
+      "bytes": 66488,
+      "ok": true
+    },
+    {
+      "filename": "harder.mp3",
+      "text": "A deeper current is opening. We can swim it together.",
+      "voice": "Candy - Girly and Sweet",
+      "voice_id": "Nggzl2QAXh3OijoXD116",
+      "bytes": 71503,
+      "ok": true
+    },
+    {
+      "filename": "skip.mp3",
+      "text": "The path opened a wider lagoon. Let’s peek together.",
+      "voice": "Candy - Girly and Sweet",
+      "voice_id": "Nggzl2QAXh3OijoXD116",
+      "bytes": 81952,
+      "ok": true
+    },
+    {
+      "filename": "cheer-0.mp3",
+      "text": "You stretched those sounds!",
+      "voice": "Candy - Girly and Sweet",
+      "voice_id": "Nggzl2QAXh3OijoXD116",
+      "bytes": 46426,
+      "ok": true
+    },
+    {
+      "filename": "cheer-1.mp3",
+      "text": "Your ear caught that one!",
+      "voice": "Candy - Girly and Sweet",
+      "voice_id": "Nggzl2QAXh3OijoXD116",
+      "bytes": 42664,
+      "ok": true
+    },
+    {
+      "filename": "cheer-2.mp3",
+      "text": "That swam right into place!",
+      "voice": "Candy - Girly and Sweet",
+      "voice_id": "Nggzl2QAXh3OijoXD116",
+      "bytes": 41828,
+      "ok": true
+    },
+    {
+      "filename": "cheer-3.mp3",
+      "text": "I like how you tried that!",
+      "voice": "Candy - Girly and Sweet",
+      "voice_id": "Nggzl2QAXh3OijoXD116",
+      "bytes": 46426,
+      "ok": true
+    },
+    {
+      "filename": "mascot-letters.mp3",
+      "text": "Let’s visit letter friends in the lagoon.",
+      "voice": "Candy - Girly and Sweet",
+      "voice_id": "Nggzl2QAXh3OijoXD116",
+      "bytes": 56039,
+      "ok": true
+    },
+    {
+      "filename": "mascot-pa.mp3",
+      "text": "Let’s listen for the first sound, nice and slow.",
+      "voice": "Candy - Girly and Sweet",
+      "voice_id": "Nggzl2QAXh3OijoXD116",
+      "bytes": 61472,
+      "ok": true
+    },
+    {
+      "filename": "mascot-cvc.mp3",
+      "text": "These little words are swimming by. Let’s blend them.",
+      "voice": "Candy - Girly and Sweet",
+      "voice_id": "Nggzl2QAXh3OijoXD116",
+      "bytes": 72339,
+      "ok": true
+    },
+    {
+      "filename": "mascot-sight.mp3",
+      "text": "Some words we remember by sight. No rush.",
+      "voice": "Candy - Girly and Sweet",
+      "voice_id": "Nggzl2QAXh3OijoXD116",
+      "bytes": 66488,
+      "ok": true
+    },
+    {
+      "filename": "mascot-count.mp3",
+      "text": "Count the pearls with me, one shell at a time.",
+      "voice": "Candy - Girly and Sweet",
+      "voice_id": "Nggzl2QAXh3OijoXD116",
+      "bytes": 63562,
+      "ok": true
+    },
+    {
+      "filename": "mascot-addsub.mp3",
+      "text": "A tiny fish story. We can use the fish to help.",
+      "voice": "Candy - Girly and Sweet",
+      "voice_id": "Nggzl2QAXh3OijoXD116",
+      "bytes": 67324,
+      "ok": true
+    },
+    {
+      "filename": "letter-hum-a.mp3",
+      "text": "aaa",
+      "voice": "Candy - Girly and Sweet",
+      "voice_id": "Nggzl2QAXh3OijoXD116",
+      "bytes": 32215,
+      "ok": true
+    },
+    {
+      "filename": "letter-hum-e.mp3",
+      "text": "eh",
+      "voice": "Candy - Girly and Sweet",
+      "voice_id": "Nggzl2QAXh3OijoXD116",
+      "bytes": 30125,
+      "ok": true
+    },
+    {
+      "filename": "letter-hum-i.mp3",
+      "text": "iii",
+      "voice": "Candy - Girly and Sweet",
+      "voice_id": "Nggzl2QAXh3OijoXD116",
+      "bytes": 30961,
+      "ok": true
+    },
+    {
+      "filename": "letter-hum-o.mp3",
+      "text": "ooo",
+      "voice": "Candy - Girly and Sweet",
+      "voice_id": "Nggzl2QAXh3OijoXD116",
+      "bytes": 28453,
+      "ok": true
+    },
+    {
+      "filename": "letter-hum-u.mp3",
+      "text": "uh",
+      "voice": "Candy - Girly and Sweet",
+      "voice_id": "Nggzl2QAXh3OijoXD116",
+      "bytes": 28036,
+      "ok": true
+    },
+    {
+      "filename": "letter-hum-m.mp3",
+      "text": "mmm",
+      "voice": "Candy - Girly and Sweet",
+      "voice_id": "Nggzl2QAXh3OijoXD116",
+      "bytes": 30961,
+      "ok": true
+    },
+    {
+      "filename": "letter-hum-s.mp3",
+      "text": "sss",
+      "voice": "Candy - Girly and Sweet",
+      "voice_id": "Nggzl2QAXh3OijoXD116",
+      "bytes": 34723,
+      "ok": true
+    },
+    {
+      "filename": "letter-hum-t.mp3",
+      "text": "ttt",
+      "voice": "Candy - Girly and Sweet",
+      "voice_id": "Nggzl2QAXh3OijoXD116",
+      "bytes": 33051,
+      "ok": true
+    },
+    {
+      "filename": "letter-hum-p.mp3",
+      "text": "p",
+      "voice": "Candy - Girly and Sweet",
+      "voice_id": "Nggzl2QAXh3OijoXD116",
+      "bytes": 28453,
+      "ok": true
+    },
+    {
+      "filename": "letter-hum-n.mp3",
+      "text": "nnn",
+      "voice": "Candy - Girly and Sweet",
+      "voice_id": "Nggzl2QAXh3OijoXD116",
+      "bytes": 33887,
+      "ok": true
+    },
+    {
+      "filename": "letter-hum-b.mp3",
+      "text": "b",
+      "voice": "Candy - Girly and Sweet",
+      "voice_id": "Nggzl2QAXh3OijoXD116",
+      "bytes": 28453,
+      "ok": true
+    },
+    {
+      "filename": "letter-hum-d.mp3",
+      "text": "d",
+      "voice": "Candy - Girly and Sweet",
+      "voice_id": "Nggzl2QAXh3OijoXD116",
+      "bytes": 32215,
+      "ok": true
+    },
+    {
+      "filename": "letter-hum-c.mp3",
+      "text": "k",
+      "voice": "Candy - Girly and Sweet",
+      "voice_id": "Nggzl2QAXh3OijoXD116",
+      "bytes": 28453,
+      "ok": true
+    },
+    {
+      "filename": "letter-hum-f.mp3",
+      "text": "fff",
+      "voice": "Candy - Girly and Sweet",
+      "voice_id": "Nggzl2QAXh3OijoXD116",
+      "bytes": 37649,
+      "ok": true
+    },
+    {
+      "filename": "letter-hum-g.mp3",
+      "text": "g",
+      "voice": "Candy - Girly and Sweet",
+      "voice_id": "Nggzl2QAXh3OijoXD116",
+      "bytes": 28453,
+      "ok": true
+    },
+    {
+      "filename": "letter-hum-h.mp3",
+      "text": "h",
+      "voice": "Candy - Girly and Sweet",
+      "voice_id": "Nggzl2QAXh3OijoXD116",
+      "bytes": 30125,
+      "ok": true
+    },
+    {
+      "filename": "letter-hum-q.mp3",
+      "text": "kw",
+      "voice": "Candy - Girly and Sweet",
+      "voice_id": "Nggzl2QAXh3OijoXD116",
+      "bytes": 27200,
+      "ok": true
+    },
+    {
+      "filename": "letter-hum-v.mp3",
+      "text": "vvv",
+      "voice": "Candy - Girly and Sweet",
+      "voice_id": "Nggzl2QAXh3OijoXD116",
+      "bytes": 35141,
+      "ok": true
+    },
+    {
+      "filename": "letter-hum-w.mp3",
+      "text": "w",
+      "voice": "Candy - Girly and Sweet",
+      "voice_id": "Nggzl2QAXh3OijoXD116",
+      "bytes": 31379,
+      "ok": true
+    },
+    {
+      "filename": "letter-hum-j.mp3",
+      "text": "j",
+      "voice": "Candy - Girly and Sweet",
+      "voice_id": "Nggzl2QAXh3OijoXD116",
+      "bytes": 28036,
+      "ok": true
+    },
+    {
+      "filename": "letter-hum-z.mp3",
+      "text": "zzz",
+      "voice": "Candy - Girly and Sweet",
+      "voice_id": "Nggzl2QAXh3OijoXD116",
+      "bytes": 26364,
+      "ok": true
+    },
+    {
+      "filename": "letter-hum-k.mp3",
+      "text": "k",
+      "voice": "Candy - Girly and Sweet",
+      "voice_id": "Nggzl2QAXh3OijoXD116",
+      "bytes": 28036,
+      "ok": true
+    },
+    {
+      "filename": "letter-hum-y.mp3",
+      "text": "y",
+      "voice": "Candy - Girly and Sweet",
+      "voice_id": "Nggzl2QAXh3OijoXD116",
+      "bytes": 30961,
+      "ok": true
+    },
+    {
+      "filename": "letter-hum-l.mp3",
+      "text": "lll",
+      "voice": "Candy - Girly and Sweet",
+      "voice_id": "Nggzl2QAXh3OijoXD116",
+      "bytes": 38902,
+      "ok": true
+    },
+    {
+      "filename": "letter-hum-r.mp3",
+      "text": "rrr",
+      "voice": "Candy - Girly and Sweet",
+      "voice_id": "Nggzl2QAXh3OijoXD116",
+      "bytes": 32215,
+      "ok": true
+    }
+  ]
+}

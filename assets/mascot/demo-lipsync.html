@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Sunny lip-sync demo — Everleigh's Rocky Top Reef</title>
+  <style>
+    :root {
+      --water: #4B9CD3;
+      --orange: #FF8200;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      min-height: 100vh;
+      display: grid;
+      place-items: center;
+      font-family: system-ui, sans-serif;
+      background: radial-gradient(ellipse at 50% 30%, #7ec8e8, var(--water) 55%, #2a6f97);
+      color: #fff;
+    }
+    .card {
+      text-align: center;
+      padding: 1.5rem;
+      background: rgba(0,40,70,.25);
+      border-radius: 24px;
+      backdrop-filter: blur(6px);
+      max-width: 420px;
+    }
+    h1 { font-size: 1.1rem; font-weight: 600; margin: 0 0 .75rem; letter-spacing: .02em; }
+    .stage {
+      width: 280px; height: 280px;
+      margin: 0 auto 1rem;
+      position: relative;
+    }
+    .sunny {
+      width: 280px; height: 280px;
+      background-image: url("./sunny-mouth-spritesheet-transparent-512.png");
+      background-size: 300% 100%;
+      background-repeat: no-repeat;
+      background-position: 0% 0;
+      filter: drop-shadow(0 12px 18px rgba(0,30,60,.35));
+    }
+    .sunny.idle {
+      animation: bob 2.4s ease-in-out infinite;
+    }
+    .sunny.talking {
+      animation: bob 2.4s ease-in-out infinite, talk 0.28s steps(1) infinite;
+    }
+    @keyframes bob {
+      0%, 100% { transform: translateY(0); }
+      50% { transform: translateY(-10px); }
+    }
+    @keyframes talk {
+      0%, 100% { background-position: 0% 0; }
+      25% { background-position: 50% 0; }
+      50% { background-position: 100% 0; }
+      75% { background-position: 50% 0; }
+    }
+    .row { display: flex; gap: .5rem; justify-content: center; flex-wrap: wrap; }
+    button {
+      border: 0; border-radius: 999px;
+      padding: .55rem 1rem;
+      font-weight: 600;
+      cursor: pointer;
+      background: var(--orange);
+      color: #fff;
+    }
+    button.secondary { background: rgba(255,255,255,.2); }
+    button:focus-visible { outline: 2px solid #fff; outline-offset: 2px; }
+    .hint { margin-top: .85rem; font-size: .8rem; opacity: .85; }
+    .thumbs {
+      display: flex; gap: .4rem; justify-content: center; margin-top: 1rem;
+    }
+    .thumbs img {
+      width: 72px; height: 72px;
+      border-radius: 12px;
+      background: rgba(0,0,0,.15);
+      object-fit: contain;
+    }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <h1>Sunny — mouth closed / half / open</h1>
+    <div class="stage">
+      <div id="sunny" class="sunny idle" role="img" aria-label="Sunny the unicorn fish"></div>
+    </div>
+    <div class="row">
+      <button type="button" id="btnIdle" class="secondary">Idle (closed)</button>
+      <button type="button" id="btnTalk">Talk cycle</button>
+      <button type="button" id="btnClosed" class="secondary">Closed</button>
+      <button type="button" id="btnHalf" class="secondary">Half</button>
+      <button type="button" id="btnOpen" class="secondary">Open</button>
+    </div>
+    <p class="hint">Spritesheet: closed → half → open. Use <code>is-talking</code> while TTS plays.</p>
+    <div class="thumbs">
+      <img src="./sunny-mouth-closed-transparent-512.png" alt="mouth closed" />
+      <img src="./sunny-mouth-half-transparent-512.png" alt="mouth half" />
+      <img src="./sunny-mouth-open-transparent-512.png" alt="mouth open" />
+    </div>
+  </div>
+  <script>
+    const el = document.getElementById("sunny");
+    function setMode(mode) {
+      el.classList.remove("idle", "talking");
+      el.style.backgroundPosition = "";
+      if (mode === "idle") el.classList.add("idle");
+      else if (mode === "talk") el.classList.add("talking");
+      else {
+        el.classList.add("idle");
+        const map = { closed: "0% 0", half: "50% 0", open: "100% 0" };
+        el.style.animation = "bob 2.4s ease-in-out infinite";
+        el.style.backgroundPosition = map[mode];
+        // keep bob without talk — override talk via inline position
+        el.classList.remove("talking");
+      }
+    }
+    document.getElementById("btnIdle").onclick = () => {
+      el.style.backgroundPosition = "";
+      el.style.animation = "";
+      setMode("idle");
+    };
+    document.getElementById("btnTalk").onclick = () => {
+      el.style.backgroundPosition = "";
+      el.style.animation = "";
+      setMode("talk");
+    };
+    document.getElementById("btnClosed").onclick = () => setMode("closed");
+    document.getElementById("btnHalf").onclick = () => setMode("half");
+    document.getElementById("btnOpen").onclick = () => setMode("open");
+  </script>
+</body>
+</html>

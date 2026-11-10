@@ -1,0 +1,4071 @@
+{
+  "title": "Everleigh's Rocky Top Reef voice cast",
+  "note": "Bake every file below. The app never uses browser read-aloud. Existing Sunny Candy clips and mom clips stay and keep these filenames. A missing file shows the caption only.",
+  "totalClips": 761,
+  "characters": [
+    {
+      "character": "Sunny",
+      "role": "unicorn fish, host and letter sounds",
+      "personality": "Warm, slow, playful. Celebrates effort. Never grades.",
+      "voice": "Candy, already baked where a file exists",
+      "lines": [
+        {
+          "id": "sunny-hi-everleigh",
+          "text": "Hi, Everleigh. I am Sunny. Want to light the Crystal Path, or practice a reef game?",
+          "file": "sunny-hi-everleigh.mp3"
+        },
+        {
+          "id": "sunny-reef-open",
+          "text": "Hi, Everleigh. The reef is open. Light the Crystal Path, practice a game, or swim an Explorer Check.",
+          "file": "sunny-reef-open.mp3"
+        },
+        {
+          "id": "sunny-explorer",
+          "text": "Hi, Everleigh. Explorer Check is a swim, not a test. Finish a lagoon and a gem appears. No grades.",
+          "file": "sunny-explorer.mp3"
+        },
+        {
+          "id": "sunny-soon",
+          "text": "These games open after your reef swim. The swim is ready whenever you are.",
+          "file": "sunny-soon.mp3"
+        },
+        {
+          "id": "sunny-which-sound",
+          "text": "Which sound does this letter make?",
+          "file": "sunny-which-sound.mp3"
+        },
+        {
+          "id": "sunny-finished",
+          "text": "You finished the swim. A gem for completing the adventure. Sunny did not keep a score.",
+          "file": "sunny-finished.mp3"
+        },
+        {
+          "id": "sunny-rest",
+          "text": "Resting is a strong choice. The gem waits until this adventure chunk is finished.",
+          "file": "sunny-rest.mp3"
+        },
+        {
+          "id": "sunny-reef-ready",
+          "text": "The swim is finished. New games are ready, right where you are.",
+          "file": "sunny-reef-ready.mp3"
+        },
+        {
+          "id": "nudge",
+          "text": "Ooh, that one tricked me too — let’s sneak up on it.",
+          "file": "nudge.mp3"
+        },
+        {
+          "id": "ease",
+          "text": "Let’s float to a cozier current. I’ll hum a hint.",
+          "file": "ease.mp3"
+        },
+        {
+          "id": "harder",
+          "text": "A deeper current is opening. We can swim it together.",
+          "file": "harder.mp3"
+        },
+        {
+          "id": "skip",
+          "text": "The path opened a wider lagoon. Let’s peek together.",
+          "file": "skip.mp3"
+        },
+        {
+          "id": "cheer-0",
+          "text": "You stretched those sounds!",
+          "file": "cheer-0.mp3"
+        },
+        {
+          "id": "cheer-1",
+          "text": "Your ear caught that one!",
+          "file": "cheer-1.mp3"
+        },
+        {
+          "id": "cheer-2",
+          "text": "That swam right into place!",
+          "file": "cheer-2.mp3"
+        },
+        {
+          "id": "cheer-3",
+          "text": "I like how you tried that!",
+          "file": "cheer-3.mp3"
+        },
+        {
+          "id": "mascot-letters",
+          "text": "Let’s visit letter friends in the lagoon.",
+          "file": "mascot-letters.mp3"
+        },
+        {
+          "id": "letter-hum-a",
+          "text": "aaa, like apple",
+          "file": "letter-hum-a.mp3"
+        },
+        {
+          "id": "letter-hum-e",
+          "text": "eh, like egg",
+          "file": "letter-hum-e.mp3"
+        },
+        {
+          "id": "letter-hum-i",
+          "text": "iii, like igloo",
+          "file": "letter-hum-i.mp3"
+        },
+        {
+          "id": "letter-hum-o",
+          "text": "ooo, like octopus",
+          "file": "letter-hum-o.mp3"
+        },
+        {
+          "id": "letter-hum-u",
+          "text": "uh, like umbrella",
+          "file": "letter-hum-u.mp3"
+        },
+        {
+          "id": "letter-hum-m",
+          "text": "mmm, like moon",
+          "file": "letter-hum-m.mp3"
+        },
+        {
+          "id": "letter-hum-s",
+          "text": "sss, like sun",
+          "file": "letter-hum-s.mp3"
+        },
+        {
+          "id": "letter-hum-t",
+          "text": "ttt, like turtle",
+          "file": "letter-hum-t.mp3"
+        },
+        {
+          "id": "letter-hum-p",
+          "text": "p, like pig",
+          "file": "letter-hum-p.mp3"
+        },
+        {
+          "id": "letter-hum-n",
+          "text": "nnn, like nest",
+          "file": "letter-hum-n.mp3"
+        },
+        {
+          "id": "letter-hum-b",
+          "text": "b, like bear",
+          "file": "letter-hum-b.mp3"
+        },
+        {
+          "id": "letter-hum-d",
+          "text": "d, like dog",
+          "file": "letter-hum-d.mp3"
+        },
+        {
+          "id": "letter-hum-c",
+          "text": "k, like cat",
+          "file": "letter-hum-c.mp3"
+        },
+        {
+          "id": "letter-hum-f",
+          "text": "fff, like fish",
+          "file": "letter-hum-f.mp3"
+        },
+        {
+          "id": "letter-hum-g",
+          "text": "g, like grape",
+          "file": "letter-hum-g.mp3"
+        },
+        {
+          "id": "letter-hum-h",
+          "text": "h, like hat",
+          "file": "letter-hum-h.mp3"
+        },
+        {
+          "id": "letter-hum-q",
+          "text": "kw, like queen",
+          "file": "letter-hum-q.mp3"
+        },
+        {
+          "id": "letter-hum-v",
+          "text": "vvv, like van",
+          "file": "letter-hum-v.mp3"
+        },
+        {
+          "id": "letter-hum-w",
+          "text": "w, like wave",
+          "file": "letter-hum-w.mp3"
+        },
+        {
+          "id": "letter-hum-j",
+          "text": "j, like jam",
+          "file": "letter-hum-j.mp3"
+        },
+        {
+          "id": "letter-hum-z",
+          "text": "zzz, like zip",
+          "file": "letter-hum-z.mp3"
+        },
+        {
+          "id": "letter-hum-k",
+          "text": "k, like kite",
+          "file": "letter-hum-k.mp3"
+        },
+        {
+          "id": "letter-hum-y",
+          "text": "y, like yarn",
+          "file": "letter-hum-y.mp3"
+        },
+        {
+          "id": "letter-hum-l",
+          "text": "lll, like lemon",
+          "file": "letter-hum-l.mp3"
+        },
+        {
+          "id": "letter-hum-r",
+          "text": "rrr, like rain",
+          "file": "letter-hum-r.mp3"
+        }
+      ],
+      "clipCount": 42
+    },
+    {
+      "character": "Bubbles",
+      "role": "octopus, phonemic awareness",
+      "personality": "Bubbly and patient. Listens for rhymes and sounds.",
+      "voice": "To bake. Distinct from Sunny.",
+      "lines": [
+        {
+          "id": "bubbles-hello",
+          "text": "I’m Bubbles. Let’s listen for sounds, nice and slow.",
+          "file": "bubbles-hello.mp3"
+        },
+        {
+          "id": "bubbles-rhyme",
+          "text": "Which word rhymes with this one?",
+          "file": "bubbles-rhyme.mp3"
+        },
+        {
+          "id": "bubbles-first-sound",
+          "text": "What is the first sound?",
+          "file": "bubbles-first-sound.mp3"
+        },
+        {
+          "id": "bubbles-last-sound",
+          "text": "What is the last sound?",
+          "file": "bubbles-last-sound.mp3"
+        },
+        {
+          "id": "bubbles-how-many-sounds",
+          "text": "How many sounds are in this word?",
+          "file": "bubbles-how-many-sounds.mp3"
+        },
+        {
+          "id": "mascot-pa",
+          "text": "Let’s listen for the first sound, nice and slow.",
+          "file": "mascot-pa.mp3"
+        },
+        {
+          "id": "word-at",
+          "text": "at",
+          "file": "word-at.mp3"
+        },
+        {
+          "id": "word-bee",
+          "text": "bee",
+          "file": "word-bee.mp3"
+        },
+        {
+          "id": "word-bug",
+          "text": "bug",
+          "file": "word-bug.mp3"
+        },
+        {
+          "id": "word-cake",
+          "text": "cake",
+          "file": "word-cake.mp3"
+        },
+        {
+          "id": "word-car",
+          "text": "car",
+          "file": "word-car.mp3"
+        },
+        {
+          "id": "word-cat",
+          "text": "cat",
+          "file": "word-cat.mp3"
+        },
+        {
+          "id": "word-cup",
+          "text": "cup",
+          "file": "word-cup.mp3"
+        },
+        {
+          "id": "word-dog",
+          "text": "dog",
+          "file": "word-dog.mp3"
+        },
+        {
+          "id": "word-fin",
+          "text": "fin",
+          "file": "word-fin.mp3"
+        },
+        {
+          "id": "word-fish",
+          "text": "fish",
+          "file": "word-fish.mp3"
+        },
+        {
+          "id": "word-hat",
+          "text": "hat",
+          "file": "word-hat.mp3"
+        },
+        {
+          "id": "word-hop",
+          "text": "hop",
+          "file": "word-hop.mp3"
+        },
+        {
+          "id": "word-it",
+          "text": "it",
+          "file": "word-it.mp3"
+        },
+        {
+          "id": "word-jam",
+          "text": "jam",
+          "file": "word-jam.mp3"
+        },
+        {
+          "id": "word-kite",
+          "text": "kite",
+          "file": "word-kite.mp3"
+        },
+        {
+          "id": "word-lake",
+          "text": "lake",
+          "file": "word-lake.mp3"
+        },
+        {
+          "id": "word-light",
+          "text": "light",
+          "file": "word-light.mp3"
+        },
+        {
+          "id": "word-map",
+          "text": "map",
+          "file": "word-map.mp3"
+        },
+        {
+          "id": "word-mat",
+          "text": "mat",
+          "file": "word-mat.mp3"
+        },
+        {
+          "id": "word-moon",
+          "text": "moon",
+          "file": "word-moon.mp3"
+        },
+        {
+          "id": "word-mud",
+          "text": "mud",
+          "file": "word-mud.mp3"
+        },
+        {
+          "id": "word-net",
+          "text": "net",
+          "file": "word-net.mp3"
+        },
+        {
+          "id": "word-pen",
+          "text": "pen",
+          "file": "word-pen.mp3"
+        },
+        {
+          "id": "word-pig",
+          "text": "pig",
+          "file": "word-pig.mp3"
+        },
+        {
+          "id": "word-pin",
+          "text": "pin",
+          "file": "word-pin.mp3"
+        },
+        {
+          "id": "word-rug",
+          "text": "rug",
+          "file": "word-rug.mp3"
+        },
+        {
+          "id": "word-sand",
+          "text": "sand",
+          "file": "word-sand.mp3"
+        },
+        {
+          "id": "word-star",
+          "text": "star",
+          "file": "word-star.mp3"
+        },
+        {
+          "id": "word-stop",
+          "text": "stop",
+          "file": "word-stop.mp3"
+        },
+        {
+          "id": "word-sun",
+          "text": "sun",
+          "file": "word-sun.mp3"
+        },
+        {
+          "id": "word-top",
+          "text": "top",
+          "file": "word-top.mp3"
+        },
+        {
+          "id": "word-tree",
+          "text": "tree",
+          "file": "word-tree.mp3"
+        },
+        {
+          "id": "word-turtle",
+          "text": "turtle",
+          "file": "word-turtle.mp3"
+        },
+        {
+          "id": "word-van",
+          "text": "van",
+          "file": "word-van.mp3"
+        },
+        {
+          "id": "word-web",
+          "text": "web",
+          "file": "word-web.mp3"
+        }
+      ],
+      "clipCount": 41
+    },
+    {
+      "character": "Zippy",
+      "role": "seahorse, CVC words and memory words",
+      "personality": "Bright and quick, still kind. Stretches sounds into words.",
+      "voice": "To bake. Distinct from Sunny.",
+      "lines": [
+        {
+          "id": "zippy-hello",
+          "text": "I’m Zippy. Stretch the little word, then wave at the memory word.",
+          "file": "zippy-hello.mp3"
+        },
+        {
+          "id": "zippy-blend",
+          "text": "Blend the sounds.",
+          "file": "zippy-blend.mp3"
+        },
+        {
+          "id": "zippy-sight",
+          "text": "Tap the same word. No rush.",
+          "file": "zippy-sight.mp3"
+        },
+        {
+          "id": "mascot-cvc",
+          "text": "These little words are swimming by. Let’s blend them.",
+          "file": "mascot-cvc.mp3"
+        },
+        {
+          "id": "mascot-sight",
+          "text": "Some words we remember by sight. No rush.",
+          "file": "mascot-sight.mp3"
+        },
+        {
+          "id": "word-bab",
+          "text": "bab",
+          "file": "word-bab.mp3"
+        },
+        {
+          "id": "word-bad",
+          "text": "bad",
+          "file": "word-bad.mp3"
+        },
+        {
+          "id": "word-bag",
+          "text": "bag",
+          "file": "word-bag.mp3"
+        },
+        {
+          "id": "word-bam",
+          "text": "bam",
+          "file": "word-bam.mp3"
+        },
+        {
+          "id": "word-ban",
+          "text": "ban",
+          "file": "word-ban.mp3"
+        },
+        {
+          "id": "word-bap",
+          "text": "bap",
+          "file": "word-bap.mp3"
+        },
+        {
+          "id": "word-bat",
+          "text": "bat",
+          "file": "word-bat.mp3"
+        },
+        {
+          "id": "word-beb",
+          "text": "beb",
+          "file": "word-beb.mp3"
+        },
+        {
+          "id": "word-bed",
+          "text": "bed",
+          "file": "word-bed.mp3"
+        },
+        {
+          "id": "word-beg",
+          "text": "beg",
+          "file": "word-beg.mp3"
+        },
+        {
+          "id": "word-bem",
+          "text": "bem",
+          "file": "word-bem.mp3"
+        },
+        {
+          "id": "word-ben",
+          "text": "ben",
+          "file": "word-ben.mp3"
+        },
+        {
+          "id": "word-bep",
+          "text": "bep",
+          "file": "word-bep.mp3"
+        },
+        {
+          "id": "word-bet",
+          "text": "bet",
+          "file": "word-bet.mp3"
+        },
+        {
+          "id": "word-bib",
+          "text": "bib",
+          "file": "word-bib.mp3"
+        },
+        {
+          "id": "word-bid",
+          "text": "bid",
+          "file": "word-bid.mp3"
+        },
+        {
+          "id": "word-big",
+          "text": "big",
+          "file": "word-big.mp3"
+        },
+        {
+          "id": "word-bim",
+          "text": "bim",
+          "file": "word-bim.mp3"
+        },
+        {
+          "id": "word-bin",
+          "text": "bin",
+          "file": "word-bin.mp3"
+        },
+        {
+          "id": "word-bip",
+          "text": "bip",
+          "file": "word-bip.mp3"
+        },
+        {
+          "id": "word-bit",
+          "text": "bit",
+          "file": "word-bit.mp3"
+        },
+        {
+          "id": "word-bob",
+          "text": "bob",
+          "file": "word-bob.mp3"
+        },
+        {
+          "id": "word-bod",
+          "text": "bod",
+          "file": "word-bod.mp3"
+        },
+        {
+          "id": "word-bog",
+          "text": "bog",
+          "file": "word-bog.mp3"
+        },
+        {
+          "id": "word-bom",
+          "text": "bom",
+          "file": "word-bom.mp3"
+        },
+        {
+          "id": "word-bon",
+          "text": "bon",
+          "file": "word-bon.mp3"
+        },
+        {
+          "id": "word-bop",
+          "text": "bop",
+          "file": "word-bop.mp3"
+        },
+        {
+          "id": "word-bot",
+          "text": "bot",
+          "file": "word-bot.mp3"
+        },
+        {
+          "id": "word-bub",
+          "text": "bub",
+          "file": "word-bub.mp3"
+        },
+        {
+          "id": "word-bud",
+          "text": "bud",
+          "file": "word-bud.mp3"
+        },
+        {
+          "id": "word-bug",
+          "text": "bug",
+          "file": "word-bug.mp3"
+        },
+        {
+          "id": "word-bum",
+          "text": "bum",
+          "file": "word-bum.mp3"
+        },
+        {
+          "id": "word-bun",
+          "text": "bun",
+          "file": "word-bun.mp3"
+        },
+        {
+          "id": "word-bup",
+          "text": "bup",
+          "file": "word-bup.mp3"
+        },
+        {
+          "id": "word-bus",
+          "text": "bus",
+          "file": "word-bus.mp3"
+        },
+        {
+          "id": "word-but",
+          "text": "but",
+          "file": "word-but.mp3"
+        },
+        {
+          "id": "word-cab",
+          "text": "cab",
+          "file": "word-cab.mp3"
+        },
+        {
+          "id": "word-cad",
+          "text": "cad",
+          "file": "word-cad.mp3"
+        },
+        {
+          "id": "word-cag",
+          "text": "cag",
+          "file": "word-cag.mp3"
+        },
+        {
+          "id": "word-cam",
+          "text": "cam",
+          "file": "word-cam.mp3"
+        },
+        {
+          "id": "word-can",
+          "text": "can",
+          "file": "word-can.mp3"
+        },
+        {
+          "id": "word-cap",
+          "text": "cap",
+          "file": "word-cap.mp3"
+        },
+        {
+          "id": "word-cat",
+          "text": "cat",
+          "file": "word-cat.mp3"
+        },
+        {
+          "id": "word-ceb",
+          "text": "ceb",
+          "file": "word-ceb.mp3"
+        },
+        {
+          "id": "word-ced",
+          "text": "ced",
+          "file": "word-ced.mp3"
+        },
+        {
+          "id": "word-ceg",
+          "text": "ceg",
+          "file": "word-ceg.mp3"
+        },
+        {
+          "id": "word-cem",
+          "text": "cem",
+          "file": "word-cem.mp3"
+        },
+        {
+          "id": "word-cen",
+          "text": "cen",
+          "file": "word-cen.mp3"
+        },
+        {
+          "id": "word-cep",
+          "text": "cep",
+          "file": "word-cep.mp3"
+        },
+        {
+          "id": "word-cet",
+          "text": "cet",
+          "file": "word-cet.mp3"
+        },
+        {
+          "id": "word-cib",
+          "text": "cib",
+          "file": "word-cib.mp3"
+        },
+        {
+          "id": "word-cid",
+          "text": "cid",
+          "file": "word-cid.mp3"
+        },
+        {
+          "id": "word-cig",
+          "text": "cig",
+          "file": "word-cig.mp3"
+        },
+        {
+          "id": "word-cim",
+          "text": "cim",
+          "file": "word-cim.mp3"
+        },
+        {
+          "id": "word-cin",
+          "text": "cin",
+          "file": "word-cin.mp3"
+        },
+        {
+          "id": "word-cip",
+          "text": "cip",
+          "file": "word-cip.mp3"
+        },
+        {
+          "id": "word-cit",
+          "text": "cit",
+          "file": "word-cit.mp3"
+        },
+        {
+          "id": "word-cob",
+          "text": "cob",
+          "file": "word-cob.mp3"
+        },
+        {
+          "id": "word-cod",
+          "text": "cod",
+          "file": "word-cod.mp3"
+        },
+        {
+          "id": "word-cog",
+          "text": "cog",
+          "file": "word-cog.mp3"
+        },
+        {
+          "id": "word-com",
+          "text": "com",
+          "file": "word-com.mp3"
+        },
+        {
+          "id": "word-con",
+          "text": "con",
+          "file": "word-con.mp3"
+        },
+        {
+          "id": "word-cop",
+          "text": "cop",
+          "file": "word-cop.mp3"
+        },
+        {
+          "id": "word-cot",
+          "text": "cot",
+          "file": "word-cot.mp3"
+        },
+        {
+          "id": "word-cub",
+          "text": "cub",
+          "file": "word-cub.mp3"
+        },
+        {
+          "id": "word-cud",
+          "text": "cud",
+          "file": "word-cud.mp3"
+        },
+        {
+          "id": "word-cug",
+          "text": "cug",
+          "file": "word-cug.mp3"
+        },
+        {
+          "id": "word-cun",
+          "text": "cun",
+          "file": "word-cun.mp3"
+        },
+        {
+          "id": "word-cup",
+          "text": "cup",
+          "file": "word-cup.mp3"
+        },
+        {
+          "id": "word-cut",
+          "text": "cut",
+          "file": "word-cut.mp3"
+        },
+        {
+          "id": "word-dab",
+          "text": "dab",
+          "file": "word-dab.mp3"
+        },
+        {
+          "id": "word-dad",
+          "text": "dad",
+          "file": "word-dad.mp3"
+        },
+        {
+          "id": "word-dag",
+          "text": "dag",
+          "file": "word-dag.mp3"
+        },
+        {
+          "id": "word-dan",
+          "text": "dan",
+          "file": "word-dan.mp3"
+        },
+        {
+          "id": "word-dap",
+          "text": "dap",
+          "file": "word-dap.mp3"
+        },
+        {
+          "id": "word-dat",
+          "text": "dat",
+          "file": "word-dat.mp3"
+        },
+        {
+          "id": "word-deb",
+          "text": "deb",
+          "file": "word-deb.mp3"
+        },
+        {
+          "id": "word-ded",
+          "text": "ded",
+          "file": "word-ded.mp3"
+        },
+        {
+          "id": "word-deg",
+          "text": "deg",
+          "file": "word-deg.mp3"
+        },
+        {
+          "id": "word-dem",
+          "text": "dem",
+          "file": "word-dem.mp3"
+        },
+        {
+          "id": "word-den",
+          "text": "den",
+          "file": "word-den.mp3"
+        },
+        {
+          "id": "word-dep",
+          "text": "dep",
+          "file": "word-dep.mp3"
+        },
+        {
+          "id": "word-det",
+          "text": "det",
+          "file": "word-det.mp3"
+        },
+        {
+          "id": "word-dib",
+          "text": "dib",
+          "file": "word-dib.mp3"
+        },
+        {
+          "id": "word-did",
+          "text": "did",
+          "file": "word-did.mp3"
+        },
+        {
+          "id": "word-dig",
+          "text": "dig",
+          "file": "word-dig.mp3"
+        },
+        {
+          "id": "word-dim",
+          "text": "dim",
+          "file": "word-dim.mp3"
+        },
+        {
+          "id": "word-din",
+          "text": "din",
+          "file": "word-din.mp3"
+        },
+        {
+          "id": "word-dip",
+          "text": "dip",
+          "file": "word-dip.mp3"
+        },
+        {
+          "id": "word-dit",
+          "text": "dit",
+          "file": "word-dit.mp3"
+        },
+        {
+          "id": "word-dob",
+          "text": "dob",
+          "file": "word-dob.mp3"
+        },
+        {
+          "id": "word-dod",
+          "text": "dod",
+          "file": "word-dod.mp3"
+        },
+        {
+          "id": "word-dog",
+          "text": "dog",
+          "file": "word-dog.mp3"
+        },
+        {
+          "id": "word-dom",
+          "text": "dom",
+          "file": "word-dom.mp3"
+        },
+        {
+          "id": "word-don",
+          "text": "don",
+          "file": "word-don.mp3"
+        },
+        {
+          "id": "word-dop",
+          "text": "dop",
+          "file": "word-dop.mp3"
+        },
+        {
+          "id": "word-dot",
+          "text": "dot",
+          "file": "word-dot.mp3"
+        },
+        {
+          "id": "word-dub",
+          "text": "dub",
+          "file": "word-dub.mp3"
+        },
+        {
+          "id": "word-dud",
+          "text": "dud",
+          "file": "word-dud.mp3"
+        },
+        {
+          "id": "word-dug",
+          "text": "dug",
+          "file": "word-dug.mp3"
+        },
+        {
+          "id": "word-dum",
+          "text": "dum",
+          "file": "word-dum.mp3"
+        },
+        {
+          "id": "word-dun",
+          "text": "dun",
+          "file": "word-dun.mp3"
+        },
+        {
+          "id": "word-dup",
+          "text": "dup",
+          "file": "word-dup.mp3"
+        },
+        {
+          "id": "word-dut",
+          "text": "dut",
+          "file": "word-dut.mp3"
+        },
+        {
+          "id": "word-fab",
+          "text": "fab",
+          "file": "word-fab.mp3"
+        },
+        {
+          "id": "word-fad",
+          "text": "fad",
+          "file": "word-fad.mp3"
+        },
+        {
+          "id": "word-fam",
+          "text": "fam",
+          "file": "word-fam.mp3"
+        },
+        {
+          "id": "word-fan",
+          "text": "fan",
+          "file": "word-fan.mp3"
+        },
+        {
+          "id": "word-fap",
+          "text": "fap",
+          "file": "word-fap.mp3"
+        },
+        {
+          "id": "word-fat",
+          "text": "fat",
+          "file": "word-fat.mp3"
+        },
+        {
+          "id": "word-feb",
+          "text": "feb",
+          "file": "word-feb.mp3"
+        },
+        {
+          "id": "word-fed",
+          "text": "fed",
+          "file": "word-fed.mp3"
+        },
+        {
+          "id": "word-feg",
+          "text": "feg",
+          "file": "word-feg.mp3"
+        },
+        {
+          "id": "word-fem",
+          "text": "fem",
+          "file": "word-fem.mp3"
+        },
+        {
+          "id": "word-fen",
+          "text": "fen",
+          "file": "word-fen.mp3"
+        },
+        {
+          "id": "word-fep",
+          "text": "fep",
+          "file": "word-fep.mp3"
+        },
+        {
+          "id": "word-fet",
+          "text": "fet",
+          "file": "word-fet.mp3"
+        },
+        {
+          "id": "word-fib",
+          "text": "fib",
+          "file": "word-fib.mp3"
+        },
+        {
+          "id": "word-fid",
+          "text": "fid",
+          "file": "word-fid.mp3"
+        },
+        {
+          "id": "word-fig",
+          "text": "fig",
+          "file": "word-fig.mp3"
+        },
+        {
+          "id": "word-fim",
+          "text": "fim",
+          "file": "word-fim.mp3"
+        },
+        {
+          "id": "word-fin",
+          "text": "fin",
+          "file": "word-fin.mp3"
+        },
+        {
+          "id": "word-fip",
+          "text": "fip",
+          "file": "word-fip.mp3"
+        },
+        {
+          "id": "word-fit",
+          "text": "fit",
+          "file": "word-fit.mp3"
+        },
+        {
+          "id": "word-fob",
+          "text": "fob",
+          "file": "word-fob.mp3"
+        },
+        {
+          "id": "word-fod",
+          "text": "fod",
+          "file": "word-fod.mp3"
+        },
+        {
+          "id": "word-fog",
+          "text": "fog",
+          "file": "word-fog.mp3"
+        },
+        {
+          "id": "word-fom",
+          "text": "fom",
+          "file": "word-fom.mp3"
+        },
+        {
+          "id": "word-fon",
+          "text": "fon",
+          "file": "word-fon.mp3"
+        },
+        {
+          "id": "word-fop",
+          "text": "fop",
+          "file": "word-fop.mp3"
+        },
+        {
+          "id": "word-fot",
+          "text": "fot",
+          "file": "word-fot.mp3"
+        },
+        {
+          "id": "word-fub",
+          "text": "fub",
+          "file": "word-fub.mp3"
+        },
+        {
+          "id": "word-fud",
+          "text": "fud",
+          "file": "word-fud.mp3"
+        },
+        {
+          "id": "word-fug",
+          "text": "fug",
+          "file": "word-fug.mp3"
+        },
+        {
+          "id": "word-fum",
+          "text": "fum",
+          "file": "word-fum.mp3"
+        },
+        {
+          "id": "word-fun",
+          "text": "fun",
+          "file": "word-fun.mp3"
+        },
+        {
+          "id": "word-fup",
+          "text": "fup",
+          "file": "word-fup.mp3"
+        },
+        {
+          "id": "word-fut",
+          "text": "fut",
+          "file": "word-fut.mp3"
+        },
+        {
+          "id": "word-gab",
+          "text": "gab",
+          "file": "word-gab.mp3"
+        },
+        {
+          "id": "word-gad",
+          "text": "gad",
+          "file": "word-gad.mp3"
+        },
+        {
+          "id": "word-gag",
+          "text": "gag",
+          "file": "word-gag.mp3"
+        },
+        {
+          "id": "word-gam",
+          "text": "gam",
+          "file": "word-gam.mp3"
+        },
+        {
+          "id": "word-gan",
+          "text": "gan",
+          "file": "word-gan.mp3"
+        },
+        {
+          "id": "word-gap",
+          "text": "gap",
+          "file": "word-gap.mp3"
+        },
+        {
+          "id": "word-gat",
+          "text": "gat",
+          "file": "word-gat.mp3"
+        },
+        {
+          "id": "word-geb",
+          "text": "geb",
+          "file": "word-geb.mp3"
+        },
+        {
+          "id": "word-ged",
+          "text": "ged",
+          "file": "word-ged.mp3"
+        },
+        {
+          "id": "word-geg",
+          "text": "geg",
+          "file": "word-geg.mp3"
+        },
+        {
+          "id": "word-gem",
+          "text": "gem",
+          "file": "word-gem.mp3"
+        },
+        {
+          "id": "word-gen",
+          "text": "gen",
+          "file": "word-gen.mp3"
+        },
+        {
+          "id": "word-gep",
+          "text": "gep",
+          "file": "word-gep.mp3"
+        },
+        {
+          "id": "word-get",
+          "text": "get",
+          "file": "word-get.mp3"
+        },
+        {
+          "id": "word-gib",
+          "text": "gib",
+          "file": "word-gib.mp3"
+        },
+        {
+          "id": "word-gid",
+          "text": "gid",
+          "file": "word-gid.mp3"
+        },
+        {
+          "id": "word-gig",
+          "text": "gig",
+          "file": "word-gig.mp3"
+        },
+        {
+          "id": "word-gim",
+          "text": "gim",
+          "file": "word-gim.mp3"
+        },
+        {
+          "id": "word-gin",
+          "text": "gin",
+          "file": "word-gin.mp3"
+        },
+        {
+          "id": "word-gip",
+          "text": "gip",
+          "file": "word-gip.mp3"
+        },
+        {
+          "id": "word-git",
+          "text": "git",
+          "file": "word-git.mp3"
+        },
+        {
+          "id": "word-gob",
+          "text": "gob",
+          "file": "word-gob.mp3"
+        },
+        {
+          "id": "word-god",
+          "text": "god",
+          "file": "word-god.mp3"
+        },
+        {
+          "id": "word-gog",
+          "text": "gog",
+          "file": "word-gog.mp3"
+        },
+        {
+          "id": "word-gom",
+          "text": "gom",
+          "file": "word-gom.mp3"
+        },
+        {
+          "id": "word-gon",
+          "text": "gon",
+          "file": "word-gon.mp3"
+        },
+        {
+          "id": "word-gop",
+          "text": "gop",
+          "file": "word-gop.mp3"
+        },
+        {
+          "id": "word-got",
+          "text": "got",
+          "file": "word-got.mp3"
+        },
+        {
+          "id": "word-gub",
+          "text": "gub",
+          "file": "word-gub.mp3"
+        },
+        {
+          "id": "word-gud",
+          "text": "gud",
+          "file": "word-gud.mp3"
+        },
+        {
+          "id": "word-gug",
+          "text": "gug",
+          "file": "word-gug.mp3"
+        },
+        {
+          "id": "word-gum",
+          "text": "gum",
+          "file": "word-gum.mp3"
+        },
+        {
+          "id": "word-gun",
+          "text": "gun",
+          "file": "word-gun.mp3"
+        },
+        {
+          "id": "word-gup",
+          "text": "gup",
+          "file": "word-gup.mp3"
+        },
+        {
+          "id": "word-gut",
+          "text": "gut",
+          "file": "word-gut.mp3"
+        },
+        {
+          "id": "word-hab",
+          "text": "hab",
+          "file": "word-hab.mp3"
+        },
+        {
+          "id": "word-had",
+          "text": "had",
+          "file": "word-had.mp3"
+        },
+        {
+          "id": "word-hag",
+          "text": "hag",
+          "file": "word-hag.mp3"
+        },
+        {
+          "id": "word-ham",
+          "text": "ham",
+          "file": "word-ham.mp3"
+        },
+        {
+          "id": "word-han",
+          "text": "han",
+          "file": "word-han.mp3"
+        },
+        {
+          "id": "word-hap",
+          "text": "hap",
+          "file": "word-hap.mp3"
+        },
+        {
+          "id": "word-hat",
+          "text": "hat",
+          "file": "word-hat.mp3"
+        },
+        {
+          "id": "word-heb",
+          "text": "heb",
+          "file": "word-heb.mp3"
+        },
+        {
+          "id": "word-hed",
+          "text": "hed",
+          "file": "word-hed.mp3"
+        },
+        {
+          "id": "word-heg",
+          "text": "heg",
+          "file": "word-heg.mp3"
+        },
+        {
+          "id": "word-hem",
+          "text": "hem",
+          "file": "word-hem.mp3"
+        },
+        {
+          "id": "word-hen",
+          "text": "hen",
+          "file": "word-hen.mp3"
+        },
+        {
+          "id": "word-hep",
+          "text": "hep",
+          "file": "word-hep.mp3"
+        },
+        {
+          "id": "word-het",
+          "text": "het",
+          "file": "word-het.mp3"
+        },
+        {
+          "id": "word-hib",
+          "text": "hib",
+          "file": "word-hib.mp3"
+        },
+        {
+          "id": "word-hid",
+          "text": "hid",
+          "file": "word-hid.mp3"
+        },
+        {
+          "id": "word-hig",
+          "text": "hig",
+          "file": "word-hig.mp3"
+        },
+        {
+          "id": "word-him",
+          "text": "him",
+          "file": "word-him.mp3"
+        },
+        {
+          "id": "word-hin",
+          "text": "hin",
+          "file": "word-hin.mp3"
+        },
+        {
+          "id": "word-hip",
+          "text": "hip",
+          "file": "word-hip.mp3"
+        },
+        {
+          "id": "word-hit",
+          "text": "hit",
+          "file": "word-hit.mp3"
+        },
+        {
+          "id": "word-hob",
+          "text": "hob",
+          "file": "word-hob.mp3"
+        },
+        {
+          "id": "word-hod",
+          "text": "hod",
+          "file": "word-hod.mp3"
+        },
+        {
+          "id": "word-hog",
+          "text": "hog",
+          "file": "word-hog.mp3"
+        },
+        {
+          "id": "word-hom",
+          "text": "hom",
+          "file": "word-hom.mp3"
+        },
+        {
+          "id": "word-hon",
+          "text": "hon",
+          "file": "word-hon.mp3"
+        },
+        {
+          "id": "word-hop",
+          "text": "hop",
+          "file": "word-hop.mp3"
+        },
+        {
+          "id": "word-hot",
+          "text": "hot",
+          "file": "word-hot.mp3"
+        },
+        {
+          "id": "word-hub",
+          "text": "hub",
+          "file": "word-hub.mp3"
+        },
+        {
+          "id": "word-hud",
+          "text": "hud",
+          "file": "word-hud.mp3"
+        },
+        {
+          "id": "word-hug",
+          "text": "hug",
+          "file": "word-hug.mp3"
+        },
+        {
+          "id": "word-hum",
+          "text": "hum",
+          "file": "word-hum.mp3"
+        },
+        {
+          "id": "word-hun",
+          "text": "hun",
+          "file": "word-hun.mp3"
+        },
+        {
+          "id": "word-hup",
+          "text": "hup",
+          "file": "word-hup.mp3"
+        },
+        {
+          "id": "word-hut",
+          "text": "hut",
+          "file": "word-hut.mp3"
+        },
+        {
+          "id": "word-jab",
+          "text": "jab",
+          "file": "word-jab.mp3"
+        },
+        {
+          "id": "word-jad",
+          "text": "jad",
+          "file": "word-jad.mp3"
+        },
+        {
+          "id": "word-jag",
+          "text": "jag",
+          "file": "word-jag.mp3"
+        },
+        {
+          "id": "word-jam",
+          "text": "jam",
+          "file": "word-jam.mp3"
+        },
+        {
+          "id": "word-jan",
+          "text": "jan",
+          "file": "word-jan.mp3"
+        },
+        {
+          "id": "word-jap",
+          "text": "jap",
+          "file": "word-jap.mp3"
+        },
+        {
+          "id": "word-jat",
+          "text": "jat",
+          "file": "word-jat.mp3"
+        },
+        {
+          "id": "word-jeb",
+          "text": "jeb",
+          "file": "word-jeb.mp3"
+        },
+        {
+          "id": "word-jed",
+          "text": "jed",
+          "file": "word-jed.mp3"
+        },
+        {
+          "id": "word-jeg",
+          "text": "jeg",
+          "file": "word-jeg.mp3"
+        },
+        {
+          "id": "word-jem",
+          "text": "jem",
+          "file": "word-jem.mp3"
+        },
+        {
+          "id": "word-jen",
+          "text": "jen",
+          "file": "word-jen.mp3"
+        },
+        {
+          "id": "word-jep",
+          "text": "jep",
+          "file": "word-jep.mp3"
+        },
+        {
+          "id": "word-jet",
+          "text": "jet",
+          "file": "word-jet.mp3"
+        },
+        {
+          "id": "word-jib",
+          "text": "jib",
+          "file": "word-jib.mp3"
+        },
+        {
+          "id": "word-jid",
+          "text": "jid",
+          "file": "word-jid.mp3"
+        },
+        {
+          "id": "word-jig",
+          "text": "jig",
+          "file": "word-jig.mp3"
+        },
+        {
+          "id": "word-jim",
+          "text": "jim",
+          "file": "word-jim.mp3"
+        },
+        {
+          "id": "word-jin",
+          "text": "jin",
+          "file": "word-jin.mp3"
+        },
+        {
+          "id": "word-jip",
+          "text": "jip",
+          "file": "word-jip.mp3"
+        },
+        {
+          "id": "word-jit",
+          "text": "jit",
+          "file": "word-jit.mp3"
+        },
+        {
+          "id": "word-job",
+          "text": "job",
+          "file": "word-job.mp3"
+        },
+        {
+          "id": "word-jod",
+          "text": "jod",
+          "file": "word-jod.mp3"
+        },
+        {
+          "id": "word-jog",
+          "text": "jog",
+          "file": "word-jog.mp3"
+        },
+        {
+          "id": "word-jom",
+          "text": "jom",
+          "file": "word-jom.mp3"
+        },
+        {
+          "id": "word-jon",
+          "text": "jon",
+          "file": "word-jon.mp3"
+        },
+        {
+          "id": "word-jop",
+          "text": "jop",
+          "file": "word-jop.mp3"
+        },
+        {
+          "id": "word-jot",
+          "text": "jot",
+          "file": "word-jot.mp3"
+        },
+        {
+          "id": "word-jub",
+          "text": "jub",
+          "file": "word-jub.mp3"
+        },
+        {
+          "id": "word-jud",
+          "text": "jud",
+          "file": "word-jud.mp3"
+        },
+        {
+          "id": "word-jug",
+          "text": "jug",
+          "file": "word-jug.mp3"
+        },
+        {
+          "id": "word-jum",
+          "text": "jum",
+          "file": "word-jum.mp3"
+        },
+        {
+          "id": "word-jun",
+          "text": "jun",
+          "file": "word-jun.mp3"
+        },
+        {
+          "id": "word-jup",
+          "text": "jup",
+          "file": "word-jup.mp3"
+        },
+        {
+          "id": "word-jut",
+          "text": "jut",
+          "file": "word-jut.mp3"
+        },
+        {
+          "id": "word-kab",
+          "text": "kab",
+          "file": "word-kab.mp3"
+        },
+        {
+          "id": "word-kad",
+          "text": "kad",
+          "file": "word-kad.mp3"
+        },
+        {
+          "id": "word-kag",
+          "text": "kag",
+          "file": "word-kag.mp3"
+        },
+        {
+          "id": "word-kam",
+          "text": "kam",
+          "file": "word-kam.mp3"
+        },
+        {
+          "id": "word-kan",
+          "text": "kan",
+          "file": "word-kan.mp3"
+        },
+        {
+          "id": "word-kap",
+          "text": "kap",
+          "file": "word-kap.mp3"
+        },
+        {
+          "id": "word-kat",
+          "text": "kat",
+          "file": "word-kat.mp3"
+        },
+        {
+          "id": "word-keb",
+          "text": "keb",
+          "file": "word-keb.mp3"
+        },
+        {
+          "id": "word-ked",
+          "text": "ked",
+          "file": "word-ked.mp3"
+        },
+        {
+          "id": "word-keg",
+          "text": "keg",
+          "file": "word-keg.mp3"
+        },
+        {
+          "id": "word-kem",
+          "text": "kem",
+          "file": "word-kem.mp3"
+        },
+        {
+          "id": "word-ken",
+          "text": "ken",
+          "file": "word-ken.mp3"
+        },
+        {
+          "id": "word-kep",
+          "text": "kep",
+          "file": "word-kep.mp3"
+        },
+        {
+          "id": "word-ket",
+          "text": "ket",
+          "file": "word-ket.mp3"
+        },
+        {
+          "id": "word-kib",
+          "text": "kib",
+          "file": "word-kib.mp3"
+        },
+        {
+          "id": "word-kid",
+          "text": "kid",
+          "file": "word-kid.mp3"
+        },
+        {
+          "id": "word-kig",
+          "text": "kig",
+          "file": "word-kig.mp3"
+        },
+        {
+          "id": "word-kim",
+          "text": "kim",
+          "file": "word-kim.mp3"
+        },
+        {
+          "id": "word-kin",
+          "text": "kin",
+          "file": "word-kin.mp3"
+        },
+        {
+          "id": "word-kip",
+          "text": "kip",
+          "file": "word-kip.mp3"
+        },
+        {
+          "id": "word-kit",
+          "text": "kit",
+          "file": "word-kit.mp3"
+        },
+        {
+          "id": "word-kob",
+          "text": "kob",
+          "file": "word-kob.mp3"
+        },
+        {
+          "id": "word-kod",
+          "text": "kod",
+          "file": "word-kod.mp3"
+        },
+        {
+          "id": "word-kog",
+          "text": "kog",
+          "file": "word-kog.mp3"
+        },
+        {
+          "id": "word-kom",
+          "text": "kom",
+          "file": "word-kom.mp3"
+        },
+        {
+          "id": "word-kon",
+          "text": "kon",
+          "file": "word-kon.mp3"
+        },
+        {
+          "id": "word-kop",
+          "text": "kop",
+          "file": "word-kop.mp3"
+        },
+        {
+          "id": "word-kot",
+          "text": "kot",
+          "file": "word-kot.mp3"
+        },
+        {
+          "id": "word-kub",
+          "text": "kub",
+          "file": "word-kub.mp3"
+        },
+        {
+          "id": "word-kud",
+          "text": "kud",
+          "file": "word-kud.mp3"
+        },
+        {
+          "id": "word-kug",
+          "text": "kug",
+          "file": "word-kug.mp3"
+        },
+        {
+          "id": "word-kum",
+          "text": "kum",
+          "file": "word-kum.mp3"
+        },
+        {
+          "id": "word-kun",
+          "text": "kun",
+          "file": "word-kun.mp3"
+        },
+        {
+          "id": "word-kup",
+          "text": "kup",
+          "file": "word-kup.mp3"
+        },
+        {
+          "id": "word-kut",
+          "text": "kut",
+          "file": "word-kut.mp3"
+        },
+        {
+          "id": "word-lab",
+          "text": "lab",
+          "file": "word-lab.mp3"
+        },
+        {
+          "id": "word-lad",
+          "text": "lad",
+          "file": "word-lad.mp3"
+        },
+        {
+          "id": "word-lag",
+          "text": "lag",
+          "file": "word-lag.mp3"
+        },
+        {
+          "id": "word-lam",
+          "text": "lam",
+          "file": "word-lam.mp3"
+        },
+        {
+          "id": "word-lan",
+          "text": "lan",
+          "file": "word-lan.mp3"
+        },
+        {
+          "id": "word-lap",
+          "text": "lap",
+          "file": "word-lap.mp3"
+        },
+        {
+          "id": "word-lat",
+          "text": "lat",
+          "file": "word-lat.mp3"
+        },
+        {
+          "id": "word-leb",
+          "text": "leb",
+          "file": "word-leb.mp3"
+        },
+        {
+          "id": "word-led",
+          "text": "led",
+          "file": "word-led.mp3"
+        },
+        {
+          "id": "word-leg",
+          "text": "leg",
+          "file": "word-leg.mp3"
+        },
+        {
+          "id": "word-lem",
+          "text": "lem",
+          "file": "word-lem.mp3"
+        },
+        {
+          "id": "word-len",
+          "text": "len",
+          "file": "word-len.mp3"
+        },
+        {
+          "id": "word-lep",
+          "text": "lep",
+          "file": "word-lep.mp3"
+        },
+        {
+          "id": "word-let",
+          "text": "let",
+          "file": "word-let.mp3"
+        },
+        {
+          "id": "word-lib",
+          "text": "lib",
+          "file": "word-lib.mp3"
+        },
+        {
+          "id": "word-lid",
+          "text": "lid",
+          "file": "word-lid.mp3"
+        },
+        {
+          "id": "word-lig",
+          "text": "lig",
+          "file": "word-lig.mp3"
+        },
+        {
+          "id": "word-lim",
+          "text": "lim",
+          "file": "word-lim.mp3"
+        },
+        {
+          "id": "word-lin",
+          "text": "lin",
+          "file": "word-lin.mp3"
+        },
+        {
+          "id": "word-lip",
+          "text": "lip",
+          "file": "word-lip.mp3"
+        },
+        {
+          "id": "word-lit",
+          "text": "lit",
+          "file": "word-lit.mp3"
+        },
+        {
+          "id": "word-lob",
+          "text": "lob",
+          "file": "word-lob.mp3"
+        },
+        {
+          "id": "word-lod",
+          "text": "lod",
+          "file": "word-lod.mp3"
+        },
+        {
+          "id": "word-log",
+          "text": "log",
+          "file": "word-log.mp3"
+        },
+        {
+          "id": "word-lom",
+          "text": "lom",
+          "file": "word-lom.mp3"
+        },
+        {
+          "id": "word-lon",
+          "text": "lon",
+          "file": "word-lon.mp3"
+        },
+        {
+          "id": "word-lop",
+          "text": "lop",
+          "file": "word-lop.mp3"
+        },
+        {
+          "id": "word-lot",
+          "text": "lot",
+          "file": "word-lot.mp3"
+        },
+        {
+          "id": "word-lub",
+          "text": "lub",
+          "file": "word-lub.mp3"
+        },
+        {
+          "id": "word-lud",
+          "text": "lud",
+          "file": "word-lud.mp3"
+        },
+        {
+          "id": "word-lug",
+          "text": "lug",
+          "file": "word-lug.mp3"
+        },
+        {
+          "id": "word-lum",
+          "text": "lum",
+          "file": "word-lum.mp3"
+        },
+        {
+          "id": "word-lun",
+          "text": "lun",
+          "file": "word-lun.mp3"
+        },
+        {
+          "id": "word-lup",
+          "text": "lup",
+          "file": "word-lup.mp3"
+        },
+        {
+          "id": "word-lut",
+          "text": "lut",
+          "file": "word-lut.mp3"
+        },
+        {
+          "id": "word-mab",
+          "text": "mab",
+          "file": "word-mab.mp3"
+        },
+        {
+          "id": "word-mad",
+          "text": "mad",
+          "file": "word-mad.mp3"
+        },
+        {
+          "id": "word-mag",
+          "text": "mag",
+          "file": "word-mag.mp3"
+        },
+        {
+          "id": "word-mam",
+          "text": "mam",
+          "file": "word-mam.mp3"
+        },
+        {
+          "id": "word-man",
+          "text": "man",
+          "file": "word-man.mp3"
+        },
+        {
+          "id": "word-map",
+          "text": "map",
+          "file": "word-map.mp3"
+        },
+        {
+          "id": "word-mat",
+          "text": "mat",
+          "file": "word-mat.mp3"
+        },
+        {
+          "id": "word-meb",
+          "text": "meb",
+          "file": "word-meb.mp3"
+        },
+        {
+          "id": "word-med",
+          "text": "med",
+          "file": "word-med.mp3"
+        },
+        {
+          "id": "word-meg",
+          "text": "meg",
+          "file": "word-meg.mp3"
+        },
+        {
+          "id": "word-mem",
+          "text": "mem",
+          "file": "word-mem.mp3"
+        },
+        {
+          "id": "word-men",
+          "text": "men",
+          "file": "word-men.mp3"
+        },
+        {
+          "id": "word-mep",
+          "text": "mep",
+          "file": "word-mep.mp3"
+        },
+        {
+          "id": "word-met",
+          "text": "met",
+          "file": "word-met.mp3"
+        },
+        {
+          "id": "word-mib",
+          "text": "mib",
+          "file": "word-mib.mp3"
+        },
+        {
+          "id": "word-mid",
+          "text": "mid",
+          "file": "word-mid.mp3"
+        },
+        {
+          "id": "word-mig",
+          "text": "mig",
+          "file": "word-mig.mp3"
+        },
+        {
+          "id": "word-mim",
+          "text": "mim",
+          "file": "word-mim.mp3"
+        },
+        {
+          "id": "word-min",
+          "text": "min",
+          "file": "word-min.mp3"
+        },
+        {
+          "id": "word-mip",
+          "text": "mip",
+          "file": "word-mip.mp3"
+        },
+        {
+          "id": "word-mit",
+          "text": "mit",
+          "file": "word-mit.mp3"
+        },
+        {
+          "id": "word-mob",
+          "text": "mob",
+          "file": "word-mob.mp3"
+        },
+        {
+          "id": "word-mod",
+          "text": "mod",
+          "file": "word-mod.mp3"
+        },
+        {
+          "id": "word-mog",
+          "text": "mog",
+          "file": "word-mog.mp3"
+        },
+        {
+          "id": "word-mom",
+          "text": "mom",
+          "file": "word-mom.mp3"
+        },
+        {
+          "id": "word-mon",
+          "text": "mon",
+          "file": "word-mon.mp3"
+        },
+        {
+          "id": "word-mop",
+          "text": "mop",
+          "file": "word-mop.mp3"
+        },
+        {
+          "id": "word-mot",
+          "text": "mot",
+          "file": "word-mot.mp3"
+        },
+        {
+          "id": "word-mub",
+          "text": "mub",
+          "file": "word-mub.mp3"
+        },
+        {
+          "id": "word-mud",
+          "text": "mud",
+          "file": "word-mud.mp3"
+        },
+        {
+          "id": "word-mug",
+          "text": "mug",
+          "file": "word-mug.mp3"
+        },
+        {
+          "id": "word-mum",
+          "text": "mum",
+          "file": "word-mum.mp3"
+        },
+        {
+          "id": "word-mun",
+          "text": "mun",
+          "file": "word-mun.mp3"
+        },
+        {
+          "id": "word-mup",
+          "text": "mup",
+          "file": "word-mup.mp3"
+        },
+        {
+          "id": "word-mut",
+          "text": "mut",
+          "file": "word-mut.mp3"
+        },
+        {
+          "id": "word-nab",
+          "text": "nab",
+          "file": "word-nab.mp3"
+        },
+        {
+          "id": "word-nad",
+          "text": "nad",
+          "file": "word-nad.mp3"
+        },
+        {
+          "id": "word-nag",
+          "text": "nag",
+          "file": "word-nag.mp3"
+        },
+        {
+          "id": "word-nam",
+          "text": "nam",
+          "file": "word-nam.mp3"
+        },
+        {
+          "id": "word-nan",
+          "text": "nan",
+          "file": "word-nan.mp3"
+        },
+        {
+          "id": "word-nap",
+          "text": "nap",
+          "file": "word-nap.mp3"
+        },
+        {
+          "id": "word-nat",
+          "text": "nat",
+          "file": "word-nat.mp3"
+        },
+        {
+          "id": "word-neb",
+          "text": "neb",
+          "file": "word-neb.mp3"
+        },
+        {
+          "id": "word-ned",
+          "text": "ned",
+          "file": "word-ned.mp3"
+        },
+        {
+          "id": "word-neg",
+          "text": "neg",
+          "file": "word-neg.mp3"
+        },
+        {
+          "id": "word-nem",
+          "text": "nem",
+          "file": "word-nem.mp3"
+        },
+        {
+          "id": "word-nen",
+          "text": "nen",
+          "file": "word-nen.mp3"
+        },
+        {
+          "id": "word-nep",
+          "text": "nep",
+          "file": "word-nep.mp3"
+        },
+        {
+          "id": "word-net",
+          "text": "net",
+          "file": "word-net.mp3"
+        },
+        {
+          "id": "word-nib",
+          "text": "nib",
+          "file": "word-nib.mp3"
+        },
+        {
+          "id": "word-nid",
+          "text": "nid",
+          "file": "word-nid.mp3"
+        },
+        {
+          "id": "word-nig",
+          "text": "nig",
+          "file": "word-nig.mp3"
+        },
+        {
+          "id": "word-nim",
+          "text": "nim",
+          "file": "word-nim.mp3"
+        },
+        {
+          "id": "word-nin",
+          "text": "nin",
+          "file": "word-nin.mp3"
+        },
+        {
+          "id": "word-nip",
+          "text": "nip",
+          "file": "word-nip.mp3"
+        },
+        {
+          "id": "word-nit",
+          "text": "nit",
+          "file": "word-nit.mp3"
+        },
+        {
+          "id": "word-nob",
+          "text": "nob",
+          "file": "word-nob.mp3"
+        },
+        {
+          "id": "word-nod",
+          "text": "nod",
+          "file": "word-nod.mp3"
+        },
+        {
+          "id": "word-nog",
+          "text": "nog",
+          "file": "word-nog.mp3"
+        },
+        {
+          "id": "word-nom",
+          "text": "nom",
+          "file": "word-nom.mp3"
+        },
+        {
+          "id": "word-non",
+          "text": "non",
+          "file": "word-non.mp3"
+        },
+        {
+          "id": "word-nop",
+          "text": "nop",
+          "file": "word-nop.mp3"
+        },
+        {
+          "id": "word-not",
+          "text": "not",
+          "file": "word-not.mp3"
+        },
+        {
+          "id": "word-nub",
+          "text": "nub",
+          "file": "word-nub.mp3"
+        },
+        {
+          "id": "word-nud",
+          "text": "nud",
+          "file": "word-nud.mp3"
+        },
+        {
+          "id": "word-nug",
+          "text": "nug",
+          "file": "word-nug.mp3"
+        },
+        {
+          "id": "word-num",
+          "text": "num",
+          "file": "word-num.mp3"
+        },
+        {
+          "id": "word-nun",
+          "text": "nun",
+          "file": "word-nun.mp3"
+        },
+        {
+          "id": "word-nup",
+          "text": "nup",
+          "file": "word-nup.mp3"
+        },
+        {
+          "id": "word-nut",
+          "text": "nut",
+          "file": "word-nut.mp3"
+        },
+        {
+          "id": "word-pab",
+          "text": "pab",
+          "file": "word-pab.mp3"
+        },
+        {
+          "id": "word-pad",
+          "text": "pad",
+          "file": "word-pad.mp3"
+        },
+        {
+          "id": "word-pag",
+          "text": "pag",
+          "file": "word-pag.mp3"
+        },
+        {
+          "id": "word-pam",
+          "text": "pam",
+          "file": "word-pam.mp3"
+        },
+        {
+          "id": "word-pan",
+          "text": "pan",
+          "file": "word-pan.mp3"
+        },
+        {
+          "id": "word-pap",
+          "text": "pap",
+          "file": "word-pap.mp3"
+        },
+        {
+          "id": "word-pat",
+          "text": "pat",
+          "file": "word-pat.mp3"
+        },
+        {
+          "id": "word-peb",
+          "text": "peb",
+          "file": "word-peb.mp3"
+        },
+        {
+          "id": "word-ped",
+          "text": "ped",
+          "file": "word-ped.mp3"
+        },
+        {
+          "id": "word-peg",
+          "text": "peg",
+          "file": "word-peg.mp3"
+        },
+        {
+          "id": "word-pem",
+          "text": "pem",
+          "file": "word-pem.mp3"
+        },
+        {
+          "id": "word-pen",
+          "text": "pen",
+          "file": "word-pen.mp3"
+        },
+        {
+          "id": "word-pep",
+          "text": "pep",
+          "file": "word-pep.mp3"
+        },
+        {
+          "id": "word-pet",
+          "text": "pet",
+          "file": "word-pet.mp3"
+        },
+        {
+          "id": "word-pib",
+          "text": "pib",
+          "file": "word-pib.mp3"
+        },
+        {
+          "id": "word-pid",
+          "text": "pid",
+          "file": "word-pid.mp3"
+        },
+        {
+          "id": "word-pig",
+          "text": "pig",
+          "file": "word-pig.mp3"
+        },
+        {
+          "id": "word-pim",
+          "text": "pim",
+          "file": "word-pim.mp3"
+        },
+        {
+          "id": "word-pin",
+          "text": "pin",
+          "file": "word-pin.mp3"
+        },
+        {
+          "id": "word-pip",
+          "text": "pip",
+          "file": "word-pip.mp3"
+        },
+        {
+          "id": "word-pit",
+          "text": "pit",
+          "file": "word-pit.mp3"
+        },
+        {
+          "id": "word-pob",
+          "text": "pob",
+          "file": "word-pob.mp3"
+        },
+        {
+          "id": "word-pod",
+          "text": "pod",
+          "file": "word-pod.mp3"
+        },
+        {
+          "id": "word-pog",
+          "text": "pog",
+          "file": "word-pog.mp3"
+        },
+        {
+          "id": "word-pom",
+          "text": "pom",
+          "file": "word-pom.mp3"
+        },
+        {
+          "id": "word-pon",
+          "text": "pon",
+          "file": "word-pon.mp3"
+        },
+        {
+          "id": "word-pop",
+          "text": "pop",
+          "file": "word-pop.mp3"
+        },
+        {
+          "id": "word-pot",
+          "text": "pot",
+          "file": "word-pot.mp3"
+        },
+        {
+          "id": "word-pub",
+          "text": "pub",
+          "file": "word-pub.mp3"
+        },
+        {
+          "id": "word-pud",
+          "text": "pud",
+          "file": "word-pud.mp3"
+        },
+        {
+          "id": "word-pug",
+          "text": "pug",
+          "file": "word-pug.mp3"
+        },
+        {
+          "id": "word-pum",
+          "text": "pum",
+          "file": "word-pum.mp3"
+        },
+        {
+          "id": "word-pun",
+          "text": "pun",
+          "file": "word-pun.mp3"
+        },
+        {
+          "id": "word-pup",
+          "text": "pup",
+          "file": "word-pup.mp3"
+        },
+        {
+          "id": "word-put",
+          "text": "put",
+          "file": "word-put.mp3"
+        },
+        {
+          "id": "word-rab",
+          "text": "rab",
+          "file": "word-rab.mp3"
+        },
+        {
+          "id": "word-rad",
+          "text": "rad",
+          "file": "word-rad.mp3"
+        },
+        {
+          "id": "word-rag",
+          "text": "rag",
+          "file": "word-rag.mp3"
+        },
+        {
+          "id": "word-ram",
+          "text": "ram",
+          "file": "word-ram.mp3"
+        },
+        {
+          "id": "word-ran",
+          "text": "ran",
+          "file": "word-ran.mp3"
+        },
+        {
+          "id": "word-rap",
+          "text": "rap",
+          "file": "word-rap.mp3"
+        },
+        {
+          "id": "word-rat",
+          "text": "rat",
+          "file": "word-rat.mp3"
+        },
+        {
+          "id": "word-reb",
+          "text": "reb",
+          "file": "word-reb.mp3"
+        },
+        {
+          "id": "word-red",
+          "text": "red",
+          "file": "word-red.mp3"
+        },
+        {
+          "id": "word-reg",
+          "text": "reg",
+          "file": "word-reg.mp3"
+        },
+        {
+          "id": "word-rem",
+          "text": "rem",
+          "file": "word-rem.mp3"
+        },
+        {
+          "id": "word-ren",
+          "text": "ren",
+          "file": "word-ren.mp3"
+        },
+        {
+          "id": "word-rep",
+          "text": "rep",
+          "file": "word-rep.mp3"
+        },
+        {
+          "id": "word-ret",
+          "text": "ret",
+          "file": "word-ret.mp3"
+        },
+        {
+          "id": "word-rib",
+          "text": "rib",
+          "file": "word-rib.mp3"
+        },
+        {
+          "id": "word-rid",
+          "text": "rid",
+          "file": "word-rid.mp3"
+        },
+        {
+          "id": "word-rig",
+          "text": "rig",
+          "file": "word-rig.mp3"
+        },
+        {
+          "id": "word-rim",
+          "text": "rim",
+          "file": "word-rim.mp3"
+        },
+        {
+          "id": "word-rin",
+          "text": "rin",
+          "file": "word-rin.mp3"
+        },
+        {
+          "id": "word-rip",
+          "text": "rip",
+          "file": "word-rip.mp3"
+        },
+        {
+          "id": "word-rit",
+          "text": "rit",
+          "file": "word-rit.mp3"
+        },
+        {
+          "id": "word-rob",
+          "text": "rob",
+          "file": "word-rob.mp3"
+        },
+        {
+          "id": "word-rod",
+          "text": "rod",
+          "file": "word-rod.mp3"
+        },
+        {
+          "id": "word-rog",
+          "text": "rog",
+          "file": "word-rog.mp3"
+        },
+        {
+          "id": "word-rom",
+          "text": "rom",
+          "file": "word-rom.mp3"
+        },
+        {
+          "id": "word-ron",
+          "text": "ron",
+          "file": "word-ron.mp3"
+        },
+        {
+          "id": "word-rop",
+          "text": "rop",
+          "file": "word-rop.mp3"
+        },
+        {
+          "id": "word-rot",
+          "text": "rot",
+          "file": "word-rot.mp3"
+        },
+        {
+          "id": "word-rub",
+          "text": "rub",
+          "file": "word-rub.mp3"
+        },
+        {
+          "id": "word-rud",
+          "text": "rud",
+          "file": "word-rud.mp3"
+        },
+        {
+          "id": "word-rug",
+          "text": "rug",
+          "file": "word-rug.mp3"
+        },
+        {
+          "id": "word-rum",
+          "text": "rum",
+          "file": "word-rum.mp3"
+        },
+        {
+          "id": "word-run",
+          "text": "run",
+          "file": "word-run.mp3"
+        },
+        {
+          "id": "word-rup",
+          "text": "rup",
+          "file": "word-rup.mp3"
+        },
+        {
+          "id": "word-rut",
+          "text": "rut",
+          "file": "word-rut.mp3"
+        },
+        {
+          "id": "word-sab",
+          "text": "sab",
+          "file": "word-sab.mp3"
+        },
+        {
+          "id": "word-sad",
+          "text": "sad",
+          "file": "word-sad.mp3"
+        },
+        {
+          "id": "word-sag",
+          "text": "sag",
+          "file": "word-sag.mp3"
+        },
+        {
+          "id": "word-sam",
+          "text": "sam",
+          "file": "word-sam.mp3"
+        },
+        {
+          "id": "word-san",
+          "text": "san",
+          "file": "word-san.mp3"
+        },
+        {
+          "id": "word-sap",
+          "text": "sap",
+          "file": "word-sap.mp3"
+        },
+        {
+          "id": "word-sat",
+          "text": "sat",
+          "file": "word-sat.mp3"
+        },
+        {
+          "id": "word-seb",
+          "text": "seb",
+          "file": "word-seb.mp3"
+        },
+        {
+          "id": "word-sed",
+          "text": "sed",
+          "file": "word-sed.mp3"
+        },
+        {
+          "id": "word-seg",
+          "text": "seg",
+          "file": "word-seg.mp3"
+        },
+        {
+          "id": "word-sem",
+          "text": "sem",
+          "file": "word-sem.mp3"
+        },
+        {
+          "id": "word-sen",
+          "text": "sen",
+          "file": "word-sen.mp3"
+        },
+        {
+          "id": "word-sep",
+          "text": "sep",
+          "file": "word-sep.mp3"
+        },
+        {
+          "id": "word-set",
+          "text": "set",
+          "file": "word-set.mp3"
+        },
+        {
+          "id": "word-sib",
+          "text": "sib",
+          "file": "word-sib.mp3"
+        },
+        {
+          "id": "word-sid",
+          "text": "sid",
+          "file": "word-sid.mp3"
+        },
+        {
+          "id": "word-sig",
+          "text": "sig",
+          "file": "word-sig.mp3"
+        },
+        {
+          "id": "word-sim",
+          "text": "sim",
+          "file": "word-sim.mp3"
+        },
+        {
+          "id": "word-sin",
+          "text": "sin",
+          "file": "word-sin.mp3"
+        },
+        {
+          "id": "word-sip",
+          "text": "sip",
+          "file": "word-sip.mp3"
+        },
+        {
+          "id": "word-sit",
+          "text": "sit",
+          "file": "word-sit.mp3"
+        },
+        {
+          "id": "word-sob",
+          "text": "sob",
+          "file": "word-sob.mp3"
+        },
+        {
+          "id": "word-sod",
+          "text": "sod",
+          "file": "word-sod.mp3"
+        },
+        {
+          "id": "word-sog",
+          "text": "sog",
+          "file": "word-sog.mp3"
+        },
+        {
+          "id": "word-som",
+          "text": "som",
+          "file": "word-som.mp3"
+        },
+        {
+          "id": "word-son",
+          "text": "son",
+          "file": "word-son.mp3"
+        },
+        {
+          "id": "word-sop",
+          "text": "sop",
+          "file": "word-sop.mp3"
+        },
+        {
+          "id": "word-sot",
+          "text": "sot",
+          "file": "word-sot.mp3"
+        },
+        {
+          "id": "word-sub",
+          "text": "sub",
+          "file": "word-sub.mp3"
+        },
+        {
+          "id": "word-sud",
+          "text": "sud",
+          "file": "word-sud.mp3"
+        },
+        {
+          "id": "word-sug",
+          "text": "sug",
+          "file": "word-sug.mp3"
+        },
+        {
+          "id": "word-sum",
+          "text": "sum",
+          "file": "word-sum.mp3"
+        },
+        {
+          "id": "word-sun",
+          "text": "sun",
+          "file": "word-sun.mp3"
+        },
+        {
+          "id": "word-sup",
+          "text": "sup",
+          "file": "word-sup.mp3"
+        },
+        {
+          "id": "word-sut",
+          "text": "sut",
+          "file": "word-sut.mp3"
+        },
+        {
+          "id": "word-tab",
+          "text": "tab",
+          "file": "word-tab.mp3"
+        },
+        {
+          "id": "word-tad",
+          "text": "tad",
+          "file": "word-tad.mp3"
+        },
+        {
+          "id": "word-tag",
+          "text": "tag",
+          "file": "word-tag.mp3"
+        },
+        {
+          "id": "word-tam",
+          "text": "tam",
+          "file": "word-tam.mp3"
+        },
+        {
+          "id": "word-tan",
+          "text": "tan",
+          "file": "word-tan.mp3"
+        },
+        {
+          "id": "word-tap",
+          "text": "tap",
+          "file": "word-tap.mp3"
+        },
+        {
+          "id": "word-tat",
+          "text": "tat",
+          "file": "word-tat.mp3"
+        },
+        {
+          "id": "word-teb",
+          "text": "teb",
+          "file": "word-teb.mp3"
+        },
+        {
+          "id": "word-ted",
+          "text": "ted",
+          "file": "word-ted.mp3"
+        },
+        {
+          "id": "word-teg",
+          "text": "teg",
+          "file": "word-teg.mp3"
+        },
+        {
+          "id": "word-tem",
+          "text": "tem",
+          "file": "word-tem.mp3"
+        },
+        {
+          "id": "word-ten",
+          "text": "ten",
+          "file": "word-ten.mp3"
+        },
+        {
+          "id": "word-tep",
+          "text": "tep",
+          "file": "word-tep.mp3"
+        },
+        {
+          "id": "word-tet",
+          "text": "tet",
+          "file": "word-tet.mp3"
+        },
+        {
+          "id": "word-tib",
+          "text": "tib",
+          "file": "word-tib.mp3"
+        },
+        {
+          "id": "word-tid",
+          "text": "tid",
+          "file": "word-tid.mp3"
+        },
+        {
+          "id": "word-tig",
+          "text": "tig",
+          "file": "word-tig.mp3"
+        },
+        {
+          "id": "word-tim",
+          "text": "tim",
+          "file": "word-tim.mp3"
+        },
+        {
+          "id": "word-tin",
+          "text": "tin",
+          "file": "word-tin.mp3"
+        },
+        {
+          "id": "word-tip",
+          "text": "tip",
+          "file": "word-tip.mp3"
+        },
+        {
+          "id": "word-tob",
+          "text": "tob",
+          "file": "word-tob.mp3"
+        },
+        {
+          "id": "word-tod",
+          "text": "tod",
+          "file": "word-tod.mp3"
+        },
+        {
+          "id": "word-tog",
+          "text": "tog",
+          "file": "word-tog.mp3"
+        },
+        {
+          "id": "word-tom",
+          "text": "tom",
+          "file": "word-tom.mp3"
+        },
+        {
+          "id": "word-ton",
+          "text": "ton",
+          "file": "word-ton.mp3"
+        },
+        {
+          "id": "word-top",
+          "text": "top",
+          "file": "word-top.mp3"
+        },
+        {
+          "id": "word-tot",
+          "text": "tot",
+          "file": "word-tot.mp3"
+        },
+        {
+          "id": "word-tub",
+          "text": "tub",
+          "file": "word-tub.mp3"
+        },
+        {
+          "id": "word-tud",
+          "text": "tud",
+          "file": "word-tud.mp3"
+        },
+        {
+          "id": "word-tug",
+          "text": "tug",
+          "file": "word-tug.mp3"
+        },
+        {
+          "id": "word-tum",
+          "text": "tum",
+          "file": "word-tum.mp3"
+        },
+        {
+          "id": "word-tun",
+          "text": "tun",
+          "file": "word-tun.mp3"
+        },
+        {
+          "id": "word-tup",
+          "text": "tup",
+          "file": "word-tup.mp3"
+        },
+        {
+          "id": "word-tut",
+          "text": "tut",
+          "file": "word-tut.mp3"
+        },
+        {
+          "id": "word-vab",
+          "text": "vab",
+          "file": "word-vab.mp3"
+        },
+        {
+          "id": "word-vad",
+          "text": "vad",
+          "file": "word-vad.mp3"
+        },
+        {
+          "id": "word-vag",
+          "text": "vag",
+          "file": "word-vag.mp3"
+        },
+        {
+          "id": "word-vam",
+          "text": "vam",
+          "file": "word-vam.mp3"
+        },
+        {
+          "id": "word-van",
+          "text": "van",
+          "file": "word-van.mp3"
+        },
+        {
+          "id": "word-vap",
+          "text": "vap",
+          "file": "word-vap.mp3"
+        },
+        {
+          "id": "word-vat",
+          "text": "vat",
+          "file": "word-vat.mp3"
+        },
+        {
+          "id": "word-veb",
+          "text": "veb",
+          "file": "word-veb.mp3"
+        },
+        {
+          "id": "word-ved",
+          "text": "ved",
+          "file": "word-ved.mp3"
+        },
+        {
+          "id": "word-veg",
+          "text": "veg",
+          "file": "word-veg.mp3"
+        },
+        {
+          "id": "word-vem",
+          "text": "vem",
+          "file": "word-vem.mp3"
+        },
+        {
+          "id": "word-ven",
+          "text": "ven",
+          "file": "word-ven.mp3"
+        },
+        {
+          "id": "word-vep",
+          "text": "vep",
+          "file": "word-vep.mp3"
+        },
+        {
+          "id": "word-vet",
+          "text": "vet",
+          "file": "word-vet.mp3"
+        },
+        {
+          "id": "word-vib",
+          "text": "vib",
+          "file": "word-vib.mp3"
+        },
+        {
+          "id": "word-vid",
+          "text": "vid",
+          "file": "word-vid.mp3"
+        },
+        {
+          "id": "word-vig",
+          "text": "vig",
+          "file": "word-vig.mp3"
+        },
+        {
+          "id": "word-vim",
+          "text": "vim",
+          "file": "word-vim.mp3"
+        },
+        {
+          "id": "word-vin",
+          "text": "vin",
+          "file": "word-vin.mp3"
+        },
+        {
+          "id": "word-vip",
+          "text": "vip",
+          "file": "word-vip.mp3"
+        },
+        {
+          "id": "word-vit",
+          "text": "vit",
+          "file": "word-vit.mp3"
+        },
+        {
+          "id": "word-vob",
+          "text": "vob",
+          "file": "word-vob.mp3"
+        },
+        {
+          "id": "word-vod",
+          "text": "vod",
+          "file": "word-vod.mp3"
+        },
+        {
+          "id": "word-vog",
+          "text": "vog",
+          "file": "word-vog.mp3"
+        },
+        {
+          "id": "word-vom",
+          "text": "vom",
+          "file": "word-vom.mp3"
+        },
+        {
+          "id": "word-von",
+          "text": "von",
+          "file": "word-von.mp3"
+        },
+        {
+          "id": "word-vop",
+          "text": "vop",
+          "file": "word-vop.mp3"
+        },
+        {
+          "id": "word-vot",
+          "text": "vot",
+          "file": "word-vot.mp3"
+        },
+        {
+          "id": "word-vub",
+          "text": "vub",
+          "file": "word-vub.mp3"
+        },
+        {
+          "id": "word-vud",
+          "text": "vud",
+          "file": "word-vud.mp3"
+        },
+        {
+          "id": "word-vug",
+          "text": "vug",
+          "file": "word-vug.mp3"
+        },
+        {
+          "id": "word-vum",
+          "text": "vum",
+          "file": "word-vum.mp3"
+        },
+        {
+          "id": "word-vun",
+          "text": "vun",
+          "file": "word-vun.mp3"
+        },
+        {
+          "id": "word-vup",
+          "text": "vup",
+          "file": "word-vup.mp3"
+        },
+        {
+          "id": "word-vut",
+          "text": "vut",
+          "file": "word-vut.mp3"
+        },
+        {
+          "id": "word-wab",
+          "text": "wab",
+          "file": "word-wab.mp3"
+        },
+        {
+          "id": "word-wad",
+          "text": "wad",
+          "file": "word-wad.mp3"
+        },
+        {
+          "id": "word-wag",
+          "text": "wag",
+          "file": "word-wag.mp3"
+        },
+        {
+          "id": "word-wam",
+          "text": "wam",
+          "file": "word-wam.mp3"
+        },
+        {
+          "id": "word-wan",
+          "text": "wan",
+          "file": "word-wan.mp3"
+        },
+        {
+          "id": "word-wap",
+          "text": "wap",
+          "file": "word-wap.mp3"
+        },
+        {
+          "id": "word-wat",
+          "text": "wat",
+          "file": "word-wat.mp3"
+        },
+        {
+          "id": "word-web",
+          "text": "web",
+          "file": "word-web.mp3"
+        },
+        {
+          "id": "word-wed",
+          "text": "wed",
+          "file": "word-wed.mp3"
+        },
+        {
+          "id": "word-weg",
+          "text": "weg",
+          "file": "word-weg.mp3"
+        },
+        {
+          "id": "word-wem",
+          "text": "wem",
+          "file": "word-wem.mp3"
+        },
+        {
+          "id": "word-wen",
+          "text": "wen",
+          "file": "word-wen.mp3"
+        },
+        {
+          "id": "word-wep",
+          "text": "wep",
+          "file": "word-wep.mp3"
+        },
+        {
+          "id": "word-wet",
+          "text": "wet",
+          "file": "word-wet.mp3"
+        },
+        {
+          "id": "word-wib",
+          "text": "wib",
+          "file": "word-wib.mp3"
+        },
+        {
+          "id": "word-wid",
+          "text": "wid",
+          "file": "word-wid.mp3"
+        },
+        {
+          "id": "word-wig",
+          "text": "wig",
+          "file": "word-wig.mp3"
+        },
+        {
+          "id": "word-wim",
+          "text": "wim",
+          "file": "word-wim.mp3"
+        },
+        {
+          "id": "word-win",
+          "text": "win",
+          "file": "word-win.mp3"
+        },
+        {
+          "id": "word-wip",
+          "text": "wip",
+          "file": "word-wip.mp3"
+        },
+        {
+          "id": "word-wit",
+          "text": "wit",
+          "file": "word-wit.mp3"
+        },
+        {
+          "id": "word-wob",
+          "text": "wob",
+          "file": "word-wob.mp3"
+        },
+        {
+          "id": "word-wod",
+          "text": "wod",
+          "file": "word-wod.mp3"
+        },
+        {
+          "id": "word-wog",
+          "text": "wog",
+          "file": "word-wog.mp3"
+        },
+        {
+          "id": "word-wom",
+          "text": "wom",
+          "file": "word-wom.mp3"
+        },
+        {
+          "id": "word-won",
+          "text": "won",
+          "file": "word-won.mp3"
+        },
+        {
+          "id": "word-wop",
+          "text": "wop",
+          "file": "word-wop.mp3"
+        },
+        {
+          "id": "word-wot",
+          "text": "wot",
+          "file": "word-wot.mp3"
+        },
+        {
+          "id": "word-wub",
+          "text": "wub",
+          "file": "word-wub.mp3"
+        },
+        {
+          "id": "word-wud",
+          "text": "wud",
+          "file": "word-wud.mp3"
+        },
+        {
+          "id": "word-wug",
+          "text": "wug",
+          "file": "word-wug.mp3"
+        },
+        {
+          "id": "word-wum",
+          "text": "wum",
+          "file": "word-wum.mp3"
+        },
+        {
+          "id": "word-wun",
+          "text": "wun",
+          "file": "word-wun.mp3"
+        },
+        {
+          "id": "word-wup",
+          "text": "wup",
+          "file": "word-wup.mp3"
+        },
+        {
+          "id": "word-wut",
+          "text": "wut",
+          "file": "word-wut.mp3"
+        },
+        {
+          "id": "word-zab",
+          "text": "zab",
+          "file": "word-zab.mp3"
+        },
+        {
+          "id": "word-zad",
+          "text": "zad",
+          "file": "word-zad.mp3"
+        },
+        {
+          "id": "word-zag",
+          "text": "zag",
+          "file": "word-zag.mp3"
+        },
+        {
+          "id": "word-zam",
+          "text": "zam",
+          "file": "word-zam.mp3"
+        },
+        {
+          "id": "word-zan",
+          "text": "zan",
+          "file": "word-zan.mp3"
+        },
+        {
+          "id": "word-zap",
+          "text": "zap",
+          "file": "word-zap.mp3"
+        },
+        {
+          "id": "word-zat",
+          "text": "zat",
+          "file": "word-zat.mp3"
+        },
+        {
+          "id": "word-zeb",
+          "text": "zeb",
+          "file": "word-zeb.mp3"
+        },
+        {
+          "id": "word-zed",
+          "text": "zed",
+          "file": "word-zed.mp3"
+        },
+        {
+          "id": "word-zeg",
+          "text": "zeg",
+          "file": "word-zeg.mp3"
+        },
+        {
+          "id": "word-zem",
+          "text": "zem",
+          "file": "word-zem.mp3"
+        },
+        {
+          "id": "word-zen",
+          "text": "zen",
+          "file": "word-zen.mp3"
+        },
+        {
+          "id": "word-zep",
+          "text": "zep",
+          "file": "word-zep.mp3"
+        },
+        {
+          "id": "word-zet",
+          "text": "zet",
+          "file": "word-zet.mp3"
+        },
+        {
+          "id": "word-zib",
+          "text": "zib",
+          "file": "word-zib.mp3"
+        },
+        {
+          "id": "word-zid",
+          "text": "zid",
+          "file": "word-zid.mp3"
+        },
+        {
+          "id": "word-zig",
+          "text": "zig",
+          "file": "word-zig.mp3"
+        },
+        {
+          "id": "word-zim",
+          "text": "zim",
+          "file": "word-zim.mp3"
+        },
+        {
+          "id": "word-zin",
+          "text": "zin",
+          "file": "word-zin.mp3"
+        },
+        {
+          "id": "word-zip",
+          "text": "zip",
+          "file": "word-zip.mp3"
+        },
+        {
+          "id": "word-zit",
+          "text": "zit",
+          "file": "word-zit.mp3"
+        },
+        {
+          "id": "word-zob",
+          "text": "zob",
+          "file": "word-zob.mp3"
+        },
+        {
+          "id": "word-zod",
+          "text": "zod",
+          "file": "word-zod.mp3"
+        },
+        {
+          "id": "word-zog",
+          "text": "zog",
+          "file": "word-zog.mp3"
+        },
+        {
+          "id": "word-zom",
+          "text": "zom",
+          "file": "word-zom.mp3"
+        },
+        {
+          "id": "word-zon",
+          "text": "zon",
+          "file": "word-zon.mp3"
+        },
+        {
+          "id": "word-zop",
+          "text": "zop",
+          "file": "word-zop.mp3"
+        },
+        {
+          "id": "word-zot",
+          "text": "zot",
+          "file": "word-zot.mp3"
+        },
+        {
+          "id": "word-zub",
+          "text": "zub",
+          "file": "word-zub.mp3"
+        },
+        {
+          "id": "word-zud",
+          "text": "zud",
+          "file": "word-zud.mp3"
+        },
+        {
+          "id": "word-zug",
+          "text": "zug",
+          "file": "word-zug.mp3"
+        },
+        {
+          "id": "word-zum",
+          "text": "zum",
+          "file": "word-zum.mp3"
+        },
+        {
+          "id": "word-zun",
+          "text": "zun",
+          "file": "word-zun.mp3"
+        },
+        {
+          "id": "word-zup",
+          "text": "zup",
+          "file": "word-zup.mp3"
+        },
+        {
+          "id": "word-zut",
+          "text": "zut",
+          "file": "word-zut.mp3"
+        },
+        {
+          "id": "sight-I",
+          "text": "I",
+          "file": "sight-I.mp3"
+        },
+        {
+          "id": "sight-a",
+          "text": "a",
+          "file": "sight-a.mp3"
+        },
+        {
+          "id": "sight-and",
+          "text": "and",
+          "file": "sight-and.mp3"
+        },
+        {
+          "id": "sight-are",
+          "text": "are",
+          "file": "sight-are.mp3"
+        },
+        {
+          "id": "sight-art",
+          "text": "art",
+          "file": "sight-art.mp3"
+        },
+        {
+          "id": "sight-as",
+          "text": "as",
+          "file": "sight-as.mp3"
+        },
+        {
+          "id": "sight-by",
+          "text": "by",
+          "file": "sight-by.mp3"
+        },
+        {
+          "id": "sight-go",
+          "text": "go",
+          "file": "sight-go.mp3"
+        },
+        {
+          "id": "sight-here",
+          "text": "here",
+          "file": "sight-here.mp3"
+        },
+        {
+          "id": "sight-in",
+          "text": "in",
+          "file": "sight-in.mp3"
+        },
+        {
+          "id": "sight-is",
+          "text": "is",
+          "file": "sight-is.mp3"
+        },
+        {
+          "id": "sight-it",
+          "text": "it",
+          "file": "sight-it.mp3"
+        },
+        {
+          "id": "sight-me",
+          "text": "me",
+          "file": "sight-me.mp3"
+        },
+        {
+          "id": "sight-my",
+          "text": "my",
+          "file": "sight-my.mp3"
+        },
+        {
+          "id": "sight-our",
+          "text": "our",
+          "file": "sight-our.mp3"
+        },
+        {
+          "id": "sight-said",
+          "text": "said",
+          "file": "sight-said.mp3"
+        },
+        {
+          "id": "sight-sand",
+          "text": "sand",
+          "file": "sight-sand.mp3"
+        },
+        {
+          "id": "sight-saw",
+          "text": "saw",
+          "file": "sight-saw.mp3"
+        },
+        {
+          "id": "sight-see",
+          "text": "see",
+          "file": "sight-see.mp3"
+        },
+        {
+          "id": "sight-so",
+          "text": "so",
+          "file": "sight-so.mp3"
+        },
+        {
+          "id": "sight-that",
+          "text": "that",
+          "file": "sight-that.mp3"
+        },
+        {
+          "id": "sight-the",
+          "text": "the",
+          "file": "sight-the.mp3"
+        },
+        {
+          "id": "sight-then",
+          "text": "then",
+          "file": "sight-then.mp3"
+        },
+        {
+          "id": "sight-they",
+          "text": "they",
+          "file": "sight-they.mp3"
+        },
+        {
+          "id": "sight-to",
+          "text": "to",
+          "file": "sight-to.mp3"
+        },
+        {
+          "id": "sight-want",
+          "text": "want",
+          "file": "sight-want.mp3"
+        },
+        {
+          "id": "sight-was",
+          "text": "was",
+          "file": "sight-was.mp3"
+        },
+        {
+          "id": "sight-we",
+          "text": "we",
+          "file": "sight-we.mp3"
+        },
+        {
+          "id": "sight-went",
+          "text": "went",
+          "file": "sight-went.mp3"
+        },
+        {
+          "id": "sight-were",
+          "text": "were",
+          "file": "sight-were.mp3"
+        },
+        {
+          "id": "sight-what",
+          "text": "what",
+          "file": "sight-what.mp3"
+        },
+        {
+          "id": "sight-where",
+          "text": "where",
+          "file": "sight-where.mp3"
+        },
+        {
+          "id": "sight-yes",
+          "text": "yes",
+          "file": "sight-yes.mp3"
+        },
+        {
+          "id": "sight-you",
+          "text": "you",
+          "file": "sight-you.mp3"
+        },
+        {
+          "id": "sight-your",
+          "text": "your",
+          "file": "sight-your.mp3"
+        }
+      ],
+      "clipCount": 667
+    },
+    {
+      "character": "Shelly",
+      "role": "turtle, counting and comparing",
+      "personality": "Slow, steady, counts one pearl at a time.",
+      "voice": "To bake. Distinct from Sunny.",
+      "lines": [
+        {
+          "id": "shelly-hello",
+          "text": "I’m Shelly. Count slowly with me.",
+          "file": "shelly-hello.mp3"
+        },
+        {
+          "id": "shelly-how-many",
+          "text": "How many pearls do you see?",
+          "file": "shelly-how-many.mp3"
+        },
+        {
+          "id": "shelly-which-nest",
+          "text": "Which nest has more pearls?",
+          "file": "shelly-which-nest.mp3"
+        },
+        {
+          "id": "mascot-count",
+          "text": "Count the pearls with me, one shell at a time.",
+          "file": "mascot-count.mp3"
+        },
+        {
+          "id": "num-0",
+          "text": "0",
+          "file": "num-0.mp3"
+        },
+        {
+          "id": "num-1",
+          "text": "1",
+          "file": "num-1.mp3"
+        },
+        {
+          "id": "num-2",
+          "text": "2",
+          "file": "num-2.mp3"
+        },
+        {
+          "id": "num-3",
+          "text": "3",
+          "file": "num-3.mp3"
+        },
+        {
+          "id": "num-4",
+          "text": "4",
+          "file": "num-4.mp3"
+        },
+        {
+          "id": "num-5",
+          "text": "5",
+          "file": "num-5.mp3"
+        },
+        {
+          "id": "num-6",
+          "text": "6",
+          "file": "num-6.mp3"
+        },
+        {
+          "id": "num-7",
+          "text": "7",
+          "file": "num-7.mp3"
+        },
+        {
+          "id": "num-8",
+          "text": "8",
+          "file": "num-8.mp3"
+        },
+        {
+          "id": "num-9",
+          "text": "9",
+          "file": "num-9.mp3"
+        },
+        {
+          "id": "num-10",
+          "text": "10",
+          "file": "num-10.mp3"
+        },
+        {
+          "id": "num-11",
+          "text": "11",
+          "file": "num-11.mp3"
+        },
+        {
+          "id": "num-12",
+          "text": "12",
+          "file": "num-12.mp3"
+        },
+        {
+          "id": "num-13",
+          "text": "13",
+          "file": "num-13.mp3"
+        },
+        {
+          "id": "num-14",
+          "text": "14",
+          "file": "num-14.mp3"
+        },
+        {
+          "id": "num-15",
+          "text": "15",
+          "file": "num-15.mp3"
+        },
+        {
+          "id": "num-16",
+          "text": "16",
+          "file": "num-16.mp3"
+        },
+        {
+          "id": "num-17",
+          "text": "17",
+          "file": "num-17.mp3"
+        },
+        {
+          "id": "num-18",
+          "text": "18",
+          "file": "num-18.mp3"
+        },
+        {
+          "id": "num-19",
+          "text": "19",
+          "file": "num-19.mp3"
+        },
+        {
+          "id": "num-20",
+          "text": "20",
+          "file": "num-20.mp3"
+        }
+      ],
+      "clipCount": 25
+    },
+    {
+      "character": "Coco",
+      "role": "crab, adding and taking away",
+      "personality": "Snappy but gentle. Tells tiny fish stories.",
+      "voice": "To bake. Distinct from Sunny.",
+      "lines": [
+        {
+          "id": "coco-hello",
+          "text": "I’m Coco. A fish story. Some join, some swim away.",
+          "file": "coco-hello.mp3"
+        },
+        {
+          "id": "coco-join",
+          "text": "Fish swim. More join. How many now?",
+          "file": "coco-join.mp3"
+        },
+        {
+          "id": "coco-leave",
+          "text": "Fish swim. Some swim away. How many stay?",
+          "file": "coco-leave.mp3"
+        },
+        {
+          "id": "mascot-addsub",
+          "text": "A tiny fish story. We can use the fish to help.",
+          "file": "mascot-addsub.mp3"
+        },
+        {
+          "id": "coco-num-0",
+          "text": "0",
+          "file": "num-0.mp3"
+        },
+        {
+          "id": "coco-num-1",
+          "text": "1",
+          "file": "num-1.mp3"
+        },
+        {
+          "id": "coco-num-2",
+          "text": "2",
+          "file": "num-2.mp3"
+        },
+        {
+          "id": "coco-num-3",
+          "text": "3",
+          "file": "num-3.mp3"
+        },
+        {
+          "id": "coco-num-4",
+          "text": "4",
+          "file": "num-4.mp3"
+        },
+        {
+          "id": "coco-num-5",
+          "text": "5",
+          "file": "num-5.mp3"
+        },
+        {
+          "id": "coco-num-6",
+          "text": "6",
+          "file": "num-6.mp3"
+        },
+        {
+          "id": "coco-num-7",
+          "text": "7",
+          "file": "num-7.mp3"
+        },
+        {
+          "id": "coco-num-8",
+          "text": "8",
+          "file": "num-8.mp3"
+        },
+        {
+          "id": "coco-num-9",
+          "text": "9",
+          "file": "num-9.mp3"
+        },
+        {
+          "id": "coco-num-10",
+          "text": "10",
+          "file": "num-10.mp3"
+        },
+        {
+          "id": "coco-num-11",
+          "text": "11",
+          "file": "num-11.mp3"
+        },
+        {
+          "id": "coco-num-12",
+          "text": "12",
+          "file": "num-12.mp3"
+        },
+        {
+          "id": "coco-num-13",
+          "text": "13",
+          "file": "num-13.mp3"
+        },
+        {
+          "id": "coco-num-14",
+          "text": "14",
+          "file": "num-14.mp3"
+        },
+        {
+          "id": "coco-num-15",
+          "text": "15",
+          "file": "num-15.mp3"
+        },
+        {
+          "id": "coco-num-16",
+          "text": "16",
+          "file": "num-16.mp3"
+        },
+        {
+          "id": "coco-num-17",
+          "text": "17",
+          "file": "num-17.mp3"
+        },
+        {
+          "id": "coco-num-18",
+          "text": "18",
+          "file": "num-18.mp3"
+        },
+        {
+          "id": "coco-num-19",
+          "text": "19",
+          "file": "num-19.mp3"
+        },
+        {
+          "id": "coco-num-20",
+          "text": "20",
+          "file": "num-20.mp3"
+        }
+      ],
+      "clipCount": 25
+    },
+    {
+      "character": "Mom",
+      "role": "grown-up praise and welcome",
+      "personality": "Warm, proud of effort, never a score.",
+      "voice": "Existing mom clips stay. Intended later bake: Teri when a plan allows it.",
+      "lines": [
+        {
+          "id": "mom-praise",
+          "text": "I'm so proud of how hard you tried today. That brave effort matters.",
+          "file": "mom-praise.mp3"
+        },
+        {
+          "id": "mom-welcome",
+          "text": "Welcome back. I'm glad we can look at the reef together.",
+          "file": "mom-welcome.mp3"
+        }
+      ],
+      "clipCount": 2
+    }
+  ]
+}
