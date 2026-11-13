@@ -202,6 +202,8 @@ function characterHint(id) {
   if (key.startsWith("coco-") || key === "mascot-addsub") return "coco";
   if (
     key.startsWith("sunny-")
+    || key.startsWith("letter-line-")
+    || key.startsWith("letter-target-")
     || key.startsWith("letter-hum-")
     || key.startsWith("cheer-")
     || key === "nudge"
@@ -354,9 +356,21 @@ export function planClips(text, audioKey) {
   return [];
 }
 
-export function speak(text, { enabled = true, audioKey = "", clips = null } = {}) {
+export function speak(text, { enabled = true, audioKey = "", clips = null, requireAll = false } = {}) {
   if (!enabled || !text) return;
   const sequence = (clips && clips.length ? clips : planClips(text, audioKey)).map((id) => String(id).replace(/\.mp3$/, ""));
+  if (requireAll) {
+    loadCatalog().then((index) => {
+      const missing = sequence.filter((id) => !pickPath(index[id], id, "sunny"));
+      if (missing.length) {
+        missing.forEach((id) => noteMissing(id));
+        return;
+      }
+      speechQueue.push({ text: String(text), sequence });
+      if (!speechBusy) drainSpeech();
+    });
+    return;
+  }
   speechQueue.push({ text: String(text), sequence });
   if (!speechBusy) drainSpeech();
 }

@@ -292,7 +292,35 @@ body[data-screen="play"] .app {
 }
 .float-choices { grid-column: 2; }
 .quest-scene .choices { display: flex; flex-wrap: wrap; gap: 12px; justify-content: center; }
+.quest-scene .picture-choices {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(140px, 200px));
+  justify-content: center;
+  gap: 14px;
+  width: 100%;
+}
+.picture-choices .choice { max-width: none; }
+.picture-choices .pick.picture {
+  display: grid;
+  place-items: center;
+  min-height: 150px;
+  aspect-ratio: 1.08 / 1;
+  border-radius: 36px;
+  padding: 12px;
+}
+.picture-choices .pick.picture img {
+  width: 86%;
+  height: 86%;
+  object-fit: contain;
+  pointer-events: none;
+}
+.picture-choices .pick.picture.is-armed {
+  outline: 4px solid #ff8200;
+  box-shadow: 0 0 0 6px #ffe08a, inset 0 3px 0 #fff, 0 8px 16px rgba(0, 40, 80, .25);
+}
+.pick-confirm:disabled { opacity: .45; }
 .quest-scene .choice { flex: 1 1 140px; max-width: 220px; }
+.quest-scene .picture-choices .choice { max-width: none; flex: none; }
 .quest-scene .pick {
   width: 100%;
   min-height: 92px;
@@ -339,6 +367,18 @@ body.captions .quest-dock { padding-bottom: calc(env(safe-area-inset-bottom, 0px
   .quest-scene .choices { flex-direction: row; flex-wrap: nowrap; gap: 8px; }
   .quest-scene .choice { flex: 1 1 0; max-width: none; min-width: 0; }
   .quest-scene .pick { min-height: 52px; height: auto; border-radius: 999px; font-size: 1.05rem; padding: 8px 12px; }
+  .quest-scene .picture-choices {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 10px;
+  }
+  .quest-scene .picture-choices .choice { max-width: none; min-width: 0; }
+  .quest-scene .picture-choices .pick {
+    min-height: 112px;
+    aspect-ratio: 1.05 / 1;
+    border-radius: 32px;
+    padding: 8px;
+  }
   .quest-dock {
     margin: 0;
     padding: 4px 10px calc(env(safe-area-inset-bottom, 0px) + 6px);

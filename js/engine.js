@@ -1,3 +1,5 @@
+import { glyphHear, pictureFor, shellHear } from "./letter-hear.mjs";
+
 /**
  * Local adaptive engine for the reef demo.
  *
@@ -1130,7 +1132,15 @@ function choiceCount(rng, ctx) {
 
 function letterItem(rng, ctx) {
   const pool = ctx.tier === "ceiling" ? LETTER_CEILING[ctx.level] : LETTER_POOL[ctx.level];
-  const letter = chooseKey(rng, pool, ctx.avoid, ctx.lastKey);
+  let letter = chooseKey(rng, pool, ctx.avoid, ctx.lastKey);
+  let forcedPrompt = "";
+  try {
+    const forced = sessionStorage.getItem("reef-letter");
+    if (forced && SOUNDS[forced]) {
+      letter = forced;
+      forcedPrompt = "Find the shell with this letter’s sound.";
+    }
+  } catch { /* not in a browser */ }
   const sound = SOUNDS[letter];
   const upper = ctx.level === 0 ? rng() > 0.25 : rng() > 0.5;
   const glyph = upper ? letter.toUpperCase() : letter;
@@ -1144,12 +1154,18 @@ function letterItem(rng, ctx) {
     if (chosen.length >= nChoices) break;
     if (!chosen.includes(d)) chosen.push(d);
   }
-  const choices = shuffle(rng, chosen).map((id) => ({
-    id,
-    label: SOUNDS[id].label,
-    emoji: SOUNDS[id].emoji,
-    speak: SOUNDS[id].speak,
-  }));
+  const choices = shuffle(rng, chosen).map((id) => {
+    const heard = shellHear(id);
+    return {
+      id,
+      label: SOUNDS[id].label,
+      emoji: SOUNDS[id].emoji,
+      speak: heard.text,
+      picture: pictureFor(SOUNDS[id].word),
+      hearText: heard.text,
+      hearClips: heard.clips,
+    };
+  });
   const name = glyph;
   const hint = ctx.showHint
     ? line(rng, [
@@ -1164,7 +1180,7 @@ function letterItem(rng, ctx) {
         "Listen for the hum, not the letter’s name.",
         "Stretch the sound, then find the shell that matches.",
       ]);
-  const prompt = line(rng, [
+  const prompt = forcedPrompt || line(rng, [
     "Which sound does this letter make?",
     "Tap the sound this letter makes.",
     "Find the shell with this letter’s sound.",
@@ -1179,6 +1195,7 @@ function letterItem(rng, ctx) {
     lead: ctx.guaranteed ? "A friendly letter to start." : "Find this letter’s sound.",
     answer: letter,
     choices,
+    glyphHear: glyphHear(letter),
     hint,
     worked: `${name} hums ${sound.hum}, like ${sound.word}.`,
     audio_key: `letter-${letter}`,

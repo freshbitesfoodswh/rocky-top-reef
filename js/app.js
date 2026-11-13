@@ -121,6 +121,27 @@ function currentPrompt() {
       return { key: `bridge-${play.bridgeTo}-${text}`, text, audioKey: "" };
     }
     if (play.phase === "ask") {
+      if (play.listeningTo === "glyph" && play.item.glyphHear) {
+        return {
+          key: `glyph-${play.moduleId}-${play.step}-${play.item.answer}`,
+          text: play.item.glyphHear.text,
+          audioKey: "",
+          clips: play.item.glyphHear.clips,
+          requireAll: true,
+        };
+      }
+      if (play.listeningTo && play.item.kind === "letter") {
+        const choice = (play.item.choices || []).find((row) => row.id === play.listeningTo);
+        if (choice) {
+          return {
+            key: `shell-${play.moduleId}-${play.step}-${choice.id}`,
+            text: choice.hearText,
+            audioKey: "",
+            clips: choice.hearClips,
+            requireAll: true,
+          };
+        }
+      }
       const text = play.cue || play.item.speak || play.item.prompt;
       return {
         key: `ask-${play.moduleId}-${play.step}-${text}`,
@@ -201,6 +222,7 @@ function syncChrome() {
 }
 
 function speechClips(prompt) {
+  if (prompt.clips && prompt.clips.length) return prompt.clips;
   if (ui.screen === "play" && play && play.phase === "ask" && !play.cue) return planItem(play.item);
   return planClips(prompt.text, prompt.audioKey);
 }
@@ -211,7 +233,12 @@ function offerSpeech() {
   if (!prompt.text || !audioUnlocked || db.settings.voice === false) return;
   if (prompt.key === spokenKey) return;
   spokenKey = prompt.key;
-  speak(prompt.text, { enabled: true, audioKey: prompt.audioKey || "", clips: speechClips(prompt) });
+  speak(prompt.text, {
+    enabled: true,
+    audioKey: prompt.audioKey || "",
+    clips: speechClips(prompt),
+    requireAll: Boolean(prompt.requireAll),
+  });
 }
 
 function replayLine() {
@@ -221,7 +248,12 @@ function replayLine() {
   showCaption(prompt.text);
   if (db.settings.voice === false) return;
   spokenKey = prompt.key;
-  speak(prompt.text, { enabled: true, audioKey: prompt.audioKey || "", clips: speechClips(prompt) });
+  speak(prompt.text, {
+    enabled: true,
+    audioKey: prompt.audioKey || "",
+    clips: speechClips(prompt),
+    requireAll: Boolean(prompt.requireAll),
+  });
 }
 
 function armAudio(event) {
@@ -314,7 +346,9 @@ function onClick(event) {
   }
   if (action === "pick") pick(el.dataset.id);
   if (action === "hear") say(el.dataset.text || "", el.dataset.audio || "");
-  if (action === "hear-item") play && say(play.item.speak, play.item.audio_key);
+  if (action === "hear-item") hearGlyph();
+  if (action === "hear-shell") hearShell(el.dataset.id);
+  if (action === "confirm-shell") play && play.armed && pick(play.armed);
   if (action === "blend") play && say((play.item.parts || []).join(", "));
   if (action === "blend-part") say(el.dataset.text || "");
   if (action === "hint") showHint();
@@ -436,9 +470,11 @@ function onKey(event) {
   if (coding && /^[0-9]$/.test(event.key)) pinKey(event.key);
   if (coding && event.key === "Backspace") pinKey("del");
   if (coding && event.key === "Enter") submitCode();
-  if (ui.screen === "play" && play && /^[1-3]$/.test(event.key)) {
+  if (ui.screen === "play" && play && /^[1-4]$/.test(event.key)) {
     const choice = play.item.choices[Number(event.key) - 1];
-    if (choice) pick(choice.id);
+    if (!choice) return;
+    if (play.item.kind === "letter") hearShell(choice.id);
+    else pick(choice.id);
   }
 }
 
@@ -474,6 +510,8 @@ function begin(mode, moduleId, kind, areaQueue) {
     areaQueue: kind === "explorer" ? (areaQueue || EXPLORER_AREAS.filter((id) => id !== moduleId)) : [],
     cue: "",
     cueKey: "",
+    armed: null,
+    listeningTo: null,
   };
   ui.screen = "play";
   render();
@@ -518,9 +556,33 @@ function startListening() {
   });
 }
 
+function hearGlyph() {
+  if (!play || play.phase !== "ask" || !play.item.glyphHear) return;
+  play.listeningTo = "glyph";
+  spokenKey = "";
+  render();
+}
+
+function hearShell(id) {
+  if (!play || play.phase !== "ask" || play.item.kind !== "letter") {
+    pick(id);
+    return;
+  }
+  if (play.armed === id) {
+    pick(id);
+    return;
+  }
+  play.armed = id;
+  play.listeningTo = id;
+  spokenKey = "";
+  render();
+}
+
 function pick(id) {
   haltListening();
   if (!play || play.phase !== "ask") return;
+  play.armed = null;
+  play.listeningTo = null;
   const item = play.item;
   if (id === item.answer) {
     const rec = recordAnswer(play.progress, item, true, play.mode === "practice" ? "practice" : "assess");
@@ -647,6 +709,8 @@ function serveNext() {
   play.bubble = whisper || (item.showHint ? item.hint : item.lead);
   play.cue = whisper ? `${whisper} ${item.speak}` : "";
   play.cueKey = "";
+  play.armed = null;
+  play.listeningTo = null;
   render();
 }
 
@@ -667,6 +731,8 @@ function beginBridge() {
   play.bubble = taken.item.lead;
   play.cue = `${MODULES[next].mascotLine} ${taken.item.speak}`;
   play.cueKey = "";
+  play.armed = null;
+  play.listeningTo = null;
   render();
 }
 
@@ -1119,9 +1185,18 @@ function dotRow(n) {
 }
 
 function choices(item) {
-  return `<div class="choices">${item.choices.map((choice) => {
+  const pictures = item.kind === "letter";
+  return `<div class="choices${pictures ? " picture-choices" : ""}">${item.choices.map((choice) => {
     const dim = play.dimmed === choice.id ? "dim" : "";
     const glow = play.reveal === choice.id ? "glow" : "";
+    const armed = pictures && play.armed === choice.id ? "is-armed" : "";
+    if (pictures && choice.picture) {
+      return `<div class="choice">
+        <button type="button" class="pick picture ${dim} ${glow} ${armed}" data-action="hear-shell" data-id="${esc(choice.id)}" aria-pressed="${armed ? "true" : "false"}" aria-label="Hear this picture. Tap again to choose it.">
+          <img src="${esc(choice.picture)}" alt="">
+        </button>
+      </div>`;
+    }
     return `<div class="choice">
       <button type="button" class="pick ${dim} ${glow}" data-action="pick" data-id="${esc(choice.id)}">${esc(choice.emoji)} ${esc(choice.label)}</button>
     </div>`;
@@ -1192,8 +1267,11 @@ const screens = {
     const tapNote = play.phase === "ask" && db.settings.spokenAnswers
       ? `<p class="fine">Or tap a shell. A missed hear does not count.</p>`
       : "";
+    const pickThis = play.phase === "ask" && play.item.kind === "letter"
+      ? `<button class="btn pick-confirm" type="button" data-action="confirm-shell" ${play.armed ? "" : "disabled"}>Pick this one</button>`
+      : "";
     const footer = play.phase === "ask"
-      ? `<div class="dock-actions">${sayIt}<button class="btn secondary" type="button" data-action="hint">A little hint</button></div>${tapNote}`
+      ? `<div class="dock-actions">${sayIt}${pickThis}<button class="btn secondary" type="button" data-action="hint">A little hint</button></div>${tapNote}`
       : play.phase === "bridge"
         ? `<button class="btn" type="button" data-action="bridge">Keep swimming</button>`
         : `<button class="btn" type="button" data-action="advance">${nextLabel}</button>`;

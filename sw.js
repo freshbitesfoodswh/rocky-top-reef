@@ -1,4 +1,4 @@
-const MEDIA = "reef-media-v17";
+const MEDIA = "reef-media-v19";
 
 self.addEventListener("install", (event) => {
   event.waitUntil(self.skipWaiting());
